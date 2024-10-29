@@ -7,12 +7,11 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=I+am+a+Cybersecurity+Expert;with+10%2B%20year+of+experience;I+am+always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=234899&vCenter=true&pause=1000&size=22" /></a>
-</p>
-<p align="center">
-🌱 I’m currently learning **AI-related topics.**    
-💬 Ask me about **Incident Response, SecTools, DFIR, Best Practices**  
-📫 Reach me at **github@securelayer.com** 
-</p>
+    
+
+<p>🌱 I’m currently learning **AI-related topics**</p>  
+<p>💬 Ask me about **Incident Response, SecTools, DFIR, Best Practices**</p>
+<p>📫 Reach me at **github@securelayer.com**</p>
     
   <summary><h2>🛠️ My favorite software and tool </h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
