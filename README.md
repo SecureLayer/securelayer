@@ -11,7 +11,7 @@
 
 <p>🌱 I’m currently learning AI-related topics</p>  
 <p>💬 Ask me about Incident Response, SecTools, DFIR, Best Practices</p>
-<p>📫 Reach me at freelance@securelayer.co for freelance work! </p>
+<p>📫 Reach me at freelance@securelayer.co to hire me! </p>
     
   <summary><h2>🛠️ My favorite software and tool </h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
