@@ -9,7 +9,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=I+am+a+Cybersecurity+Expert;with+10%2B%20years+of+experience;I+am+always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=234899&vCenter=true&pause=1000&size=22" /></a>
     
 
-<p>🌱 I’m currently learning AI-related topics</p>  
+<p>🌱 I’m currently learning AI and Blockchain-related topics</p>  
 <p>💬 Ask me about Incident Response, SecTools, DFIR, Best Practices</p>
 <p>📫 Reach me at freelance@securelayer.co to hire me! </p>
     
