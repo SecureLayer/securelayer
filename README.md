@@ -24,7 +24,7 @@
       <a href="#"><img alt="Snyk" src="https://img.shields.io/badge/Snyk-4C4A73?logo=snyk&logoColor=white"></a>
       <a href="#"><img alt="GitGuardian" src="https://img.shields.io/badge/GitGuardian-4C4A73?logo=Git-Guardian&logoColor=white"></a>
       <a href="#"><img alt="OWASP" src="https://custom-icon-badges.demolab.com/badge/OWASP-02569B.svg?logo=OWASP&logoColor=white"></a>
-      <a href="#"><img alt="Linear" src=" https://img.shields.io/badge/Linear-5E6AD2?logo=linear&logoColor=white"></a>
+      <a href="#"><img alt="Linear" src="https://img.shields.io/badge/Linear-5E6AD2?logo=linear&logoColor=white"></a>
       <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
       <a href="#"><img alt="Tines" src="https://img.shields.io/badge/Tines-4C4A73?logo=Tines&logoColor=white"></a>
       <a href="#"><img alt="Nightfall" src="https://img.shields.io/badge/Nightfall-%23483699?logo=Nightfall&logoColor=white"></a>
