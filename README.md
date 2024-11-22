@@ -2,14 +2,11 @@
 <h1 align="center">Hey there 👋</h1>
 
 <!-- Typing SVG section -->
-
-<center>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=I+am+a+Cybersecurity+Expert;with+10%2B%20years+of+experience;I+am+always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=234899&vCenter=true&pause=1000&size=22" /></a>
     
-
-<p>🌱 I’m currently learning AI and Blockchain-related topics</p>  
+<p>🌱 I’m currently learning AI and Blockchain-related topics</p>
 <p>💬 Ask me about Incident Response, SecTools, DFIR, Best Practices</p>
 <p>📫 Reach me at freelance@securelayer.co to hire me! </p>
     
@@ -61,5 +58,29 @@
       <a href="#"><img alt="Tor" src="https://img.shields.io/badge/Tor-7D4698?logo=Tor-Browser&logoColor=white"></a>
       <a href="#"><img alt="Brackets" src="https://img.shields.io/badge/Brackets-175DDC.svg?&logo=brackets&logoColor=white"></a>
       <a href="#"><img alt="OrbStack" src="https://img.shields.io/badge/OrbStack-402315.svg?&logo=orbstack&logoColor=white"></a>
-      <a href="#"><img alt="OneFlow" src="https://img.shields.io/badge/OneFlow-402315.svg?&logo=OneFlow&logoColor=white"></a>
+      <a href="#"><img alt="OneFlow" src="https://img.shields.io/badge/OneFlow-4C4A73.svg?&logo=OneFlow&logoColor=white"></a>
+      <a href="#"><img alt="Salt Security" src="https://img.shields.io/badge/Salt-Security-7D4698.svg?&logo=Salt&logoColor=white"></a>
+      <a href="#"><img alt="Wallarm" src="https://img.shields.io/badge/Wallarm-F38020.svg?&logo=Wallarm&logoColor=white"></a>
   </p>
+  
+<summary><h2>📊 <b>This week I spent my time on</b></h2></summary>
+
+<!--START_SECTION:waka-->
+
+```text
+Sec Incident      17 hrs 45 mins   ███████████▒░░░░░░░░░░░░░   44.38 % 
+Monitoring        15 hrs 45 mins   ██████████░░░░░░░░░░░░░░░   39.37 % 
+Cloud Sec          3 hrs 31 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   8.78 %
+AI Sec             2 hrs 30 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   6.24 % 
+Blockchain Sec    30 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   1.24 % 
+IAM                5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21 % 
+Compliance         0 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 % 
+Automation         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08 % 
+Data               2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08 %
+Automation         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08 %
+Documentation      0 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
+Awareness          0 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
+Collaboration      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08 %
+```
+
+<!--END_SECTION:waka-->
