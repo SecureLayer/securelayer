@@ -17,19 +17,20 @@
 <!--START_SECTION:waka-->
 
 ```text
-Sec Incident        17 hrs 45 mins   ██████████▒░░░░░░░░░░░░░░   36.34 % 
-Monitoring          15 hrs 45 mins   █████████▒░░░░░░░░░░░░░░░   32.23 % 
-Cloud Sec Ops       3 hrs 31 mins    ███▒░░░░░░░░░░░░░░░░░░░░░    7.20 %
-AI Sec              2 hrs 30 mins    ███░░░░░░░░░░░░░░░░░░░░░░    5.12 % 
-API Sec             0 mins           ░░░░░░░░░░░░░░░░░░░░░░░░░    0.00 % 
-Blockchain Sec      30 mins          █░░░░░░░░░░░░░░░░░░░░░░░░    1.02 % 
-IAM                 5 mins           ▒░░░░░░░░░░░░░░░░░░░░░░░░    0.17 % 
-Compliance          0 mins           ░░░░░░░░░░░░░░░░░░░░░░░░░    0.00 % 
-Automation          1 hr 4 mins      ██░░░░░░░░░░░░░░░░░░░░░░░    2.18 % 
-Data Sec            2 mins           ▒░░░░░░░░░░░░░░░░░░░░░░░░    0.07 % 
-Documentation       0 mins           ░░░░░░░░░░░░░░░░░░░░░░░░░    0.00 % 
-Sec Awareness       7 hrs 37 mins    ████▒░░░░░░░░░░░░░░░░░░░░   15.59 % 
-Collaboration       2 mins           ▒░░░░░░░░░░░░░░░░░░░░░░░░    0.07 %
+Sec Incident      17 hrs 45 mins   ███████████▒░░░░░░░░░░░░░   33.07 %
+Monitoring        15 hrs 45 mins   ██████████░░░░░░░░░░░░░░░   29.35 %
+Cloud Sec Ops      3 hrs 31 mins   ███▒░░░░░░░░░░░░░░░░░░░░░    6.55 %
+AI Sec             2 hrs 30 mins   ███▒░░░░░░░░░░░░░░░░░░░░░    4.66 %
+API Sec                   0 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░    0.00 %
+Blockchain Sec           30 mins   ██░░░░░░░░░░░░░░░░░░░░░░░    0.93 %
+IAM                       5 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░    0.16 %
+Compliance                0 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░    0.00 %
+Automation          1 hr 04 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░    2.05 %
+Data Sec                  2 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░    0.06 %
+Documentation      4 hrs 47 mins   ████░░░░░░░░░░░░░░░░░░░░░    8.91 %
+Sec Awareness      7 hrs 37 mins   █████░░░░░░░░░░░░░░░░░░░░   14.19 %
+Collaboration             2 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░    0.06 %
+
 ```
 <!--END_SECTION:waka-->
 
