@@ -5,7 +5,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=I+am+a+Cybersecurity+Expert;with+10%2B%20years+of+experience;I+am+always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=234899&vCenter=true&pause=1000&size=22"/></a>
     
-🌱 Currently improving my knowledge on: ![Learning Badge](https://img.shields.io/badge/AI-Security-121011) ![Learning Badge](https://img.shields.io/badge/Blockhain-Security-121011) ![Learning Badge](https://img.shields.io/badge/Automation-121011)</p>
+🌱 Currently improving my knowledge on: ![Learning Badge](https://img.shields.io/badge/AI-Security-121011) ![Learning Badge](https://img.shields.io/badge/Blockhain-Security-121011) ![Learning Badge](https://img.shields.io/badge/Automation-121011)
 ![Hire Me Badge](https://img.shields.io/badge/Hire_me-freelance@securelayer.co-7D4698) [![Website URL Badge](https://img.shields.io/badge/https://-securelayer.co-7D4698.svg)](https://securelayer.co) [![Updated Badge](https://badges.pufler.dev/updated/securelayer/securelayer)](https://securelayer.co)
 
     
