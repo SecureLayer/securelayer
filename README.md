@@ -68,19 +68,18 @@
 <!--START_SECTION:waka-->
 
 ```text
-Sec Incident      17 hrs 45 mins   ███████████▒░░░░░░░░░░░░░   37.10 % 
-Monitoring        15 hrs 45 mins   ██████████░░░░░░░░░░░░░░░   32.92 % 
-Cloud Sec Ops      3 hrs 31 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   7.35 %
-AI Sec             2 hrs 30 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   5.22 % 
-API Sec                   0 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
-Blockchain Sec           30 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   1.04 % 
-IAM                       5 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.17 % 
-Compliance                0 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 % 
-Automation                2 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.07 % 
-Data Sec                  2 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.07 %
-Automation                2 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.07 %
-Documentation             0 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
-Sec Awareness      7 hrs 37 mins   ██████░░░░░░░░░░░░░░░░░░░   15.92 %
-Collaboration             2 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.07 %
+Sec Incident        17 hrs 45 mins   ██████████▒░░░░░░░░░░░░░░   36.34 % 
+Monitoring          15 hrs 45 mins   █████████▒░░░░░░░░░░░░░░░   32.23 % 
+Cloud Sec Ops       3 hrs 31 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   7.20 %
+AI Sec              2 hrs 30 mins    ███░░░░░░░░░░░░░░░░░░░░░░   5.12 % 
+API Sec             0 mins           ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 % 
+Blockchain Sec      30 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   1.02 % 
+IAM                 5 mins           ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.17 % 
+Compliance          0 mins           ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 % 
+Automation          1 hr 4 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   2.18 % 
+Data Sec            2 mins           ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.07 % 
+Documentation       0 mins           ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 % 
+Sec Awareness       7 hrs 37 mins    ████▒░░░░░░░░░░░░░░░░░░░░   15.59 
+Collaboration       2 mins           ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.07 %
 ```
 <!--END_SECTION:waka-->
