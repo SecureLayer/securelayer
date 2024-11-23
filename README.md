@@ -62,7 +62,7 @@
       <a href="#"><img alt="Salt Security" src="https://img.shields.io/badge/Salt-Security-7D4698.svg?&logo=Salt&logoColor=white"></a>
       <a href="#"><img alt="Wallarm" src="https://img.shields.io/badge/Wallarm-F38020.svg?&logo=Wallarm&logoColor=white"></a>
   </p>
-  
+
 <summary><h2>📊 <b>This week I spent my time on</b></h2></summary>
 
 <!--START_SECTION:waka-->
@@ -83,3 +83,8 @@ Sec Awareness       7 hrs 37 mins    ████▒░░░░░░░░░�
 Collaboration       2 mins           ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.07 %
 ```
 <!--END_SECTION:waka-->
+
+-------
+
+[![Updated Badge](https://badges.pufler.dev/updated/securelayer/securelayer)](https://securelayer.co) - [![Commits Badge](https://badges.pufler.dev/commits/monthly/securelayer)](https://securelayer.co) - [![Years Badge](https://badges.pufler.dev/years/securelayer)](https://securelayer.co) - [![Repos Badge](https://badges.pufler.dev/repos/securelayer)](https://securelayer.co) - [![Gists Badge](https://badges.pufler.dev/gists/securelayer)](https://securelayer.co) - [![Visits Badge](https://badges.pufler.dev/visits/securelayer/securelayer)](https://securelayer.co)
+
