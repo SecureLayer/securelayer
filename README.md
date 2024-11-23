@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=I+am+a+Cybersecurity+Expert;with+10%2B%20years+of+experience;I+am+always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=234899&vCenter=true&pause=1000&size=22"/></a>
 </h1>
 
-🌱 Currently improving my knowledge on: ![Learning Badge](https://img.shields.io/badge/AI-Security-121011) ![Learning Badge](https://img.shields.io/badge/Blockhain-Security-121011) ![Learning Badge](https://img.shields.io/badge/Automation-121011)
+🌱 Currently improving my knowledge on: ![Learning Badge](https://img.shields.io/badge/AI-Security-121011) ![Learning Badge](https://img.shields.io/badge/Blockchain-Security-121011) ![Learning Badge](https://img.shields.io/badge/Automation-121011)
 
 ![Hire Me Badge](https://img.shields.io/badge/Hire_me-freelance@securelayer.co-7D4698) or [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-Anything-0d86c3.svg)](https://GitHub.com/securelayer/ama) or [![Kofi Badge](https://badgen.net/badge/icon/Buy%20me%20a%20kofi?icon=kofi&label)](https://ko-fi.com/securelayer) - [![Updated Badge](https://badges.pufler.dev/updated/securelayer/securelayer)](https://securelayer.co) 
 
