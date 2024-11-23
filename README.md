@@ -8,7 +8,7 @@
 
 🌱 Currently improving my knowledge on: ![Learning Badge](https://img.shields.io/badge/AI-Security-121011) ![Learning Badge](https://img.shields.io/badge/Blockchain-Security-121011) ![Learning Badge](https://img.shields.io/badge/Automation-121011)
 
-[![Hire Me Badge](https://img.shields.io/badge/Hire_me-freelance@securelayer.co-7D4698)](mailto:freelance@securelayer.co?subject=I%20need%20your%20cybersecurity%20expertise&body=Hello%20Securelayer,%20I%20need%20some%20guidance%20on%20a%20security%20project) or [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-Anything-0d86c3.svg)](https://GitHub.com/securelayer/ama) or [![Kofi Badge](https://badgen.net/badge/icon/Buy%20me%20a%20kofi?icon=kofi&label)](https://ko-fi.com/securelayer) - [![Updated Badge](https://badges.pufler.dev/updated/securelayer/securelayer)](https://securelayer.co) 
+[![Hire Me Badge](https://img.shields.io/badge/Hire_me-freelance@securelayer.co-7D4698)](mailto:freelance@securelayer.co?subject=I%20need%20your%20cybersecurity%20expertise&body=Hello%20SecureLayer,%20I%20need%20some%20guidance%20on%20a%20security%20project.%20Can%20we%20plan%20a%20meeeting?) or [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-Anything-0d86c3.svg)](https://GitHub.com/securelayer/ama) or [![Kofi Badge](https://badgen.net/badge/icon/Buy%20me%20a%20kofi?icon=kofi&label)](https://ko-fi.com/securelayer) - [![Updated Badge](https://badges.pufler.dev/updated/securelayer/securelayer)](https://securelayer.co) 
 
   <summary><h2>🛠️ My favorite software and tool </h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
