@@ -7,7 +7,7 @@
     
 🌱 Currently improving my knowledge on: ![Learning Badge](https://img.shields.io/badge/AI-Security-121011) ![Learning Badge](https://img.shields.io/badge/Blockhain-Security-121011) ![Learning Badge](https://img.shields.io/badge/Automation-121011)
 
-![Hire Me Badge](https://img.shields.io/badge/Hire_me-freelance@securelayer.co-7D4698) [![Website URL Badge](https://img.shields.io/badge/https://-securelayer.co-7D4698.svg)](https://securelayer.co) [![Updated Badge](https://badges.pufler.dev/updated/securelayer/securelayer)](https://securelayer.co) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-0d86c3.svg)](https://GitHub.com/securelayer/ama) or [![Kofi Badge](https://badgen.net/badge/icon/buy me a kofi?icon=kofi&label)](https://ko-fi.com/securelayer)
+![Hire Me Badge](https://img.shields.io/badge/Hire_me-freelance@securelayer.co-7D4698) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-0d86c3.svg)](https://GitHub.com/securelayer/ama) [![Kofi Badge](https://badgen.net/badge/icon/buy me a kofi?icon=kofi&label)](https://ko-fi.com/securelayer) [![Updated Badge](https://badges.pufler.dev/updated/securelayer/securelayer)](https://securelayer.co) 
 
   <summary><h2>🛠️ My favorite software and tool </h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
