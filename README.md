@@ -1,14 +1,15 @@
 
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Welcome here 👩🏽‍💻</h1>
 
 <!-- Typing SVG section -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=I+am+a+Cybersecurity+Expert;with+10%2B%20years+of+experience;I+am+always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=234899&vCenter=true&pause=1000&size=22" /></a>
     
-<p>🌱 I’m currently learning AI and Blockchain-related topics</p>
-<p>💬 Ask me about Incident Response, SecTools, DFIR, Best Practices</p>
-<p>📫 Reach me at freelance@securelayer.co to hire me! </p>
+<p>🌱 Currently improving my knowledge on: ![Learning Badge](https://img.shields.io/badge/AI-Security-121011) ![Learning Badge](https://img.shields.io/badge/Blockhain-Security-121011) ![Learning Badge](https://img.shields.io/badge/Automation-121011)</p>
+![Hire Me Badge](https://img.shields.io/badge/Hire_me-freelance@securelayer.co-7D4698) - [![Website URL Badge](https://img.shields.io/badge/https://-securelayer.co-7D4698.svg)](https://securelayer.co) - [![Updated Badge](https://badges.pufler.dev/updated/securelayer/securelayer)](https://securelayer.co)
+
+
     
   <summary><h2>🛠️ My favorite software and tool </h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
@@ -86,5 +87,4 @@ Collaboration       2 mins           ▒░░░░░░░░░░░░░�
 
 -------
 
-[![Updated Badge](https://badges.pufler.dev/updated/securelayer/securelayer)](https://securelayer.co) - [![Commits Badge](https://badges.pufler.dev/commits/monthly/securelayer)](https://securelayer.co) - [![Years Badge](https://badges.pufler.dev/years/securelayer)](https://securelayer.co) - [![Repos Badge](https://badges.pufler.dev/repos/securelayer)](https://securelayer.co) - [![Gists Badge](https://badges.pufler.dev/gists/securelayer)](https://securelayer.co) - [![Visits Badge](https://badges.pufler.dev/visits/securelayer/securelayer)](https://securelayer.co)
-
+![Website status Badge](https://img.shields.io/website-up-down-green-red/https/securelayer.co.svg) - [![Commits Badge](https://badges.pufler.dev/commits/monthly/securelayer)](https://securelayer.co) - [![Years Badge](https://badges.pufler.dev/years/securelayer)](https://securelayer.co) - [![Repos Badge](https://badges.pufler.dev/repos/securelayer)](https://securelayer.co) - [![Gists Badge](https://badges.pufler.dev/gists/securelayer)](https://securelayer.co) - [![Visits Badge](https://badges.pufler.dev/visits/securelayer/securelayer)](https://securelayer.co) - ![Profile View Counter](https://komarev.com/ghpvc/?username=your-github-username&label=testv1) - ![Profile View Counter](https://komarev.com/ghpvc/?username=SecureLayer&abbreviated=true&label=testv2&color=FCBFBD)
