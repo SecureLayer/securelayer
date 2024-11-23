@@ -10,15 +10,39 @@
 
 [![Hire Me Badge](https://img.shields.io/badge/Hire_me-freelance@securelayer.co-7D4698)](mailto:freelance@securelayer.co?subject=I%20need%20your%20cybersecurity%20expertise&body=Hello%20SecureLayer,%20I%20need%20some%20guidance%20on%20a%20security%20project.%20Can%20we%20plan%20a%20meeting?) or [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-Anything-0d86c3.svg)](https://GitHub.com/securelayer/ama) or [![Kofi Badge](https://badgen.net/badge/icon/Buy%20me%20a%20kofi?icon=kofi&label)](https://ko-fi.com/securelayer) - [![Updated Badge](https://badges.pufler.dev/updated/securelayer/securelayer)](https://securelayer.co) 
 
-  <summary><h2>🛠️ My favorite software and tool </h2></summary>
+----
+
+<summary><h2>📊 <b>This week I spent my time on</b></h2></summary>
+
+<!--START_SECTION:waka-->
+
+```text
+Sec Incident        17 hrs 45 mins   ██████████▒░░░░░░░░░░░░░░   36.34 % 
+Monitoring          15 hrs 45 mins   █████████▒░░░░░░░░░░░░░░░   32.23 % 
+Cloud Sec Ops       3 hrs 31 mins    ███▒░░░░░░░░░░░░░░░░░░░░░    7.20 %
+AI Sec              2 hrs 30 mins    ███░░░░░░░░░░░░░░░░░░░░░░    5.12 % 
+API Sec             0 mins           ░░░░░░░░░░░░░░░░░░░░░░░░░    0.00 % 
+Blockchain Sec      30 mins          █░░░░░░░░░░░░░░░░░░░░░░░░    1.02 % 
+IAM                 5 mins           ▒░░░░░░░░░░░░░░░░░░░░░░░░    0.17 % 
+Compliance          0 mins           ░░░░░░░░░░░░░░░░░░░░░░░░░    0.00 % 
+Automation          1 hr 4 mins      ██░░░░░░░░░░░░░░░░░░░░░░░    2.18 % 
+Data Sec            2 mins           ▒░░░░░░░░░░░░░░░░░░░░░░░░    0.07 % 
+Documentation       0 mins           ░░░░░░░░░░░░░░░░░░░░░░░░░    0.00 % 
+Sec Awareness       7 hrs 37 mins    ████▒░░░░░░░░░░░░░░░░░░░░   15.59 % 
+Collaboration       2 mins           ▒░░░░░░░░░░░░░░░░░░░░░░░░    0.07 %
+```
+<!--END_SECTION:waka-->
+
+
+  <summary><h2>🛠️ What I use(d) to do my security work </h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
       <a href="#"><img alt="Bitwarden" src="https://img.shields.io/badge/Bitwarden-175DDC?logo=bitwarden&logoColor=white"></a>
       <a href="#"><img alt="Yubico" src="https://img.shields.io/badge/Yubico-4ea94b?logo=yubico&logoColor=white"></a>
       <a href="#"><img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white"></a>
       <a href="#"><img alt="SIFT Workstation" src="https://img.shields.io/badge/SIFT-Workstation-F38020?logo=SIFT&logoColor=white"></a>
+      <a href="#"><img alt="Kali Workstation" src="https://img.shields.io/badge/Kali-Workstation-F38020?logo=Kali&logoColor=white"></a>
       <a href="#"><img alt="Elba Security" src="https://img.shields.io/badge/Elba-Security-7D4698?logo=Elba&logoColor=white"></a>
       <a href="#"><img alt="Snyk" src="https://img.shields.io/badge/Snyk-4C4A73?logo=snyk&logoColor=white"></a>
-      <a href="#"><img alt="GitGuardian" src="https://img.shields.io/badge/GitGuardian-4C4A73?logo=Git-Guardian&logoColor=white"></a>
       <a href="#"><img alt="OWASP" src="https://custom-icon-badges.demolab.com/badge/OWASP-02569B.svg?logo=OWASP&logoColor=white"></a>
       <a href="#"><img alt="Linear" src="https://img.shields.io/badge/Linear-5E6AD2?logo=linear&logoColor=white"></a>
       <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
@@ -60,28 +84,32 @@
       <a href="#"><img alt="OneFlow" src="https://img.shields.io/badge/OneFlow-4C4A73.svg?&logo=OneFlow&logoColor=white"></a>
       <a href="#"><img alt="Salt Security" src="https://img.shields.io/badge/Salt-Security-7D4698.svg?&logo=Salt&logoColor=white"></a>
       <a href="#"><img alt="Wallarm" src="https://img.shields.io/badge/Wallarm-F38020.svg?&logo=Wallarm&logoColor=white"></a>
+      <a href="#"><img alt="PDFParser" src="https://img.shields.io/badge/CLI-PDFParser-14354C?logo=Parser&logoColor=white"></a>
+      <a href="#"><img alt="Nuclei" src="https://img.shields.io/badge/CLI-nuclei-7952B3?logo=Scan&logoColor=white"></a>
+      <a href="#"><img alt="Nikto" src="https://img.shields.io/badge/CLI-nikto-7952B3?logo=Scan&logoColor=white"></a>
+      <a href="#"><img alt="CURL" src="https://img.shields.io/badge/CLI-curl-7952B3?logo=Scan&logoColor=white"></a>
+      <a href="#"><img alt="Dig" src="https://img.shields.io/badge/CLI-dig-7952B3?logo=Scan&logoColor=white"></a>
+      <a href="#"><img alt="Amass" src="https://img.shields.io/badge/Owasp-Amass-7952B3?logo=OWASP&logoColor=white"></a>
+      <a href="#"><img alt="ZAP" src="https://img.shields.io/badge/Owasp-Zap-175DDC?logo=OWASP&logoColor=white"></a>
+      <a href="#"><img alt="Sandbox" src="https://img.shields.io/badge/Cuckoo-Sandbox-2496ED?logo=Sandbox&logoColor=white"></a>
+      <a href="#"><img alt="Sandbox" src="https://img.shields.io/badge/HybridAnalysis-Sandbox-2496ED?logo=Sandbox&logoColor=white"></a>
+      <a href="#"><img alt="Sandbox" src="https://img.shields.io/badge/Joe-Sandbox-2496ED?logo=Sandbox&logoColor=white"></a>
+      <a href="#"><img alt="Sandbox" src="https://img.shields.io/badge/Virus-Total-2496ED?logo=Sandbox&logoColor=white"></a>
+      <a href="#"><img alt="Collector" src="https://img.shields.io/badge/DFIR-ORC-07405e?logo=Collector&logoColor=white"></a>
+      <a href="#"><img alt="IR" src="https://img.shields.io/badge/DFIR-Cortex-07405e?logo=IR&logoColor=white"></a>
+      <a href="#"><img alt="IR" src="https://img.shields.io/badge/DFIR-TheHive-07405e?logo=IR&logoColor=white"></a>
+      <a href="#"><img alt="Autopsy" src="https://img.shields.io/badge/DFIR-Autopsy-14354C.svg?&logo=Autopsy&logoColor=white"></a>
+      <a href="#"><img alt="Sleuth Kit " src="https://img.shields.io/badge/DFIR-SleuthKit-14354C.svg?&logo=Autopsy&logoColor=white"></a>
+      <a href="#"><img alt="IR" src="https://img.shields.io/badge/DFIR-XWays-F38020?logo=IR&logoColor=white"></a>
+      <a href="#"><img alt="IR" src="https://img.shields.io/badge/DFIR-Bitscout-F38020?logo=IR&logoColor=white"></a>
+      <a href="#"><img alt="IR" src="https://img.shields.io/badge/DFIR-Volatility-F38020?logo=IR&logoColor=white"></a>
+      <a href="#"><img alt="IR" src="https://img.shields.io/badge/DFIR-Viper-F38020?logo=IR&logoColor=white"></a>
+      <a href="#"><img alt="IR" src="https://img.shields.io/badge/DFIR-RegRipper-F38020?logo=IR&logoColor=white"></a>
+      <a href="#"><img alt="Automation" src="https://img.shields.io/badge/Renovate-4ea94b?logo=Automation&logoColor=white"></a>
+      <a href="#"><img alt="Automation" src="https://img.shields.io/badge/Dependabot-4ea94b?logo=Automation&logoColor=white"></a>
+      <a href="#"><img alt="Automation" src="https://img.shields.io/badge/Greenkeeper-4ea94b?logo=Automation&logoColor=white"></a>
+      <a href="#"><img alt="Automation" src="https://img.shields.io/badge/GitGuardian-4ea94b?logo=Automation&logoColor=white"></a>
   </p>
-
-<summary><h2>📊 <b>This week I spent my time on</b></h2></summary>
-
-<!--START_SECTION:waka-->
-
-```text
-Sec Incident        17 hrs 45 mins   ██████████▒░░░░░░░░░░░░░░   36.34 % 
-Monitoring          15 hrs 45 mins   █████████▒░░░░░░░░░░░░░░░   32.23 % 
-Cloud Sec Ops       3 hrs 31 mins    ███▒░░░░░░░░░░░░░░░░░░░░░    7.20 %
-AI Sec              2 hrs 30 mins    ███░░░░░░░░░░░░░░░░░░░░░░    5.12 % 
-API Sec             0 mins           ░░░░░░░░░░░░░░░░░░░░░░░░░    0.00 % 
-Blockchain Sec      30 mins          █░░░░░░░░░░░░░░░░░░░░░░░░    1.02 % 
-IAM                 5 mins           ▒░░░░░░░░░░░░░░░░░░░░░░░░    0.17 % 
-Compliance          0 mins           ░░░░░░░░░░░░░░░░░░░░░░░░░    0.00 % 
-Automation          1 hr 4 mins      ██░░░░░░░░░░░░░░░░░░░░░░░    2.18 % 
-Data Sec            2 mins           ▒░░░░░░░░░░░░░░░░░░░░░░░░    0.07 % 
-Documentation       0 mins           ░░░░░░░░░░░░░░░░░░░░░░░░░    0.00 % 
-Sec Awareness       7 hrs 37 mins    ████▒░░░░░░░░░░░░░░░░░░░░   15.59 % 
-Collaboration       2 mins           ▒░░░░░░░░░░░░░░░░░░░░░░░░    0.07 %
-```
-<!--END_SECTION:waka-->
 
 -------
 
