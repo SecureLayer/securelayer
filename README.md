@@ -110,7 +110,7 @@ Collaboration       : 0 hrs 12 mins   ░▒▒▒▒▒▒▒▒▒▒▒▒▒
       <a href="#"><img alt="IR" src="https://img.shields.io/badge/DFIR-RegRipper-F38020?logo=IR&logoColor=white"></a>
       <a href="#"><img alt="Automation" src="https://img.shields.io/badge/Renovate-1A1F6C?logo=renovate&logoColor=white"></a>
       <a href="#"><img alt="Automation" src="https://img.shields.io/badge/Greenkeeper-4ea94b?logo=Automation&logoColor=white"></a>
-      <a href="#"><img alt="Automation" src="https://img.shields.io/badge/GitGuardian-4ea94b?logo=Automation&logoColor=white"></a>
+      <a href="#"><img alt="Automation" src="https://img.shields.io/badge/GitGuardian-081736?logo=Automation&logoColor=white"></a>
       <a href="#"><img alt="Automation" src="https://img.shields.io/badge/Dependabot-2a65ce?logo=dependabot&logoColor=white"></a>
       <a href="#"><img alt="Authy" src="https://img.shields.io/badge/Authy-f32f47?logo=Authy&logoColor=white"></a>
       <a href="#"><img alt="Auth0" src="https://img.shields.io/badge/Auth0-eb5522?logo=auth0&logoColor=white"></a>
