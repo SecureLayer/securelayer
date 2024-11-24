@@ -41,7 +41,7 @@ Collaboration       : 0 hrs 12 mins   ░▒▒▒▒▒▒▒▒▒▒▒▒▒
       <a href="#"><img alt="Yubico" src="https://img.shields.io/badge/Yubico-4ea94b?logo=yubico&logoColor=white"></a>
       <a href="#"><img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white"></a>
       <a href="#"><img alt="SIFT Workstation" src="https://img.shields.io/badge/SIFT-Workstation-F38020?logo=SIFT&logoColor=white"></a>
-      <a href="#"><img alt="Kali Workstation" src="https://img.shields.io/badge/Kali-Workstation-F38020?logo=Kali&logoColor=white"></a>
+      <a href="#"><img alt="Kali Workstation" src="https://img.shields.io/badge/Kali-Workstation-F38020?logo=kalilinux&logoColor=white"></a>
       <a href="#"><img alt="Elba Security" src="https://img.shields.io/badge/Elba-Security-7D4698?logo=Elba&logoColor=white"></a>
       <a href="#"><img alt="Snyk" src="https://img.shields.io/badge/Snyk-4C4A73?logo=snyk&logoColor=white"></a>
       <a href="#"><img alt="OWASP" src="https://custom-icon-badges.demolab.com/badge/OWASP-02569B.svg?logo=OWASP&logoColor=white"></a>
