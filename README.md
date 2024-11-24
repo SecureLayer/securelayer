@@ -8,7 +8,7 @@
 
 🌱 Currently improving my knowledge on: ![Learning Badge](https://img.shields.io/badge/AI-Security-583192) ![Learning Badge](https://img.shields.io/badge/Blockchain-Security-583192) ![Learning Badge](https://img.shields.io/badge/Automation-583192)
 
-[![Hire Me Badge](https://img.shields.io/badge/Hire_me-freelance@securelayer.co-0285FF?&logo=minutemailer&logoColor=FFFFFF)](mailto:freelance@securelayer.co?subject=I%20need%20your%20cybersecurity%20expertise&body=Hello%20SecureLayer,%20I%20need%20some%20guidance%20on%20a%20security%20project.%20Can%20we%20plan%20a%20meeting?) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-Anything-0285FF?logo=GitHub)](https://github.com/securelayer/ama) [![Bluesky Badge](https://img.shields.io/badge/Join%20me-on%20Bluesky-0285FF?logo=bluesky&logoColor=fff)](https://bsky.app/profile/securelayer.co)  [![Kofi Badge2](https://img.shields.io/badge/Buy%20me-a%20Coffee-0285FF?logo=buymeacoffee&logoColor=fff)](https://ko-fi.com/securelayer)
+[![Hire Me Badge](https://img.shields.io/badge/Hire_me-freelance@securelayer.co-0285FF?&logo=freelancer&logoColor=FFFFFF)](mailto:freelance@securelayer.co?subject=I%20need%20your%20cybersecurity%20expertise&body=Hello%20SecureLayer,%20I%20need%20some%20guidance%20on%20a%20security%20project.%20Can%20we%20plan%20a%20meeting?) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-Anything-0285FF?logo=GitHub)](https://github.com/securelayer/ama) [![Bluesky Badge](https://img.shields.io/badge/Join%20me-on%20Bluesky-0285FF?logo=bluesky&logoColor=fff)](https://bsky.app/profile/securelayer.co)  [![Kofi Badge2](https://img.shields.io/badge/Buy%20me-a%20Coffee-0285FF?logo=buymeacoffee&logoColor=fff)](https://ko-fi.com/securelayer)
 
 ----
 
@@ -37,6 +37,7 @@ Collaboration       : 0 hrs 12 mins   ░▒▒▒▒▒▒▒▒▒▒▒▒▒
   <summary><h2>🛠️ What I use(d) to do my security work </h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
       <a href="#"><img alt="Bitwarden" src="https://img.shields.io/badge/Bitwarden-175DDC?logo=bitwarden&logoColor=white"></a>
+      <a href="#"><img alt="1Password" src="https://img.shields.io/badge/1Password-3B66BC.svg?&logo=1Password&logoColor=white"></a>
       <a href="#"><img alt="Yubico" src="https://img.shields.io/badge/Yubico-4ea94b?logo=yubico&logoColor=white"></a>
       <a href="#"><img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white"></a>
       <a href="#"><img alt="SIFT Workstation" src="https://img.shields.io/badge/SIFT-Workstation-F38020?logo=SIFT&logoColor=white"></a>
@@ -72,7 +73,7 @@ Collaboration       : 0 hrs 12 mins   ░▒▒▒▒▒▒▒▒▒▒▒▒▒
       <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
       <a href="#"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
       <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-      <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white"></a>
+      <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC?&logo=Canva&logoColor=white"></a>
       <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"></a>
       <a href="#"><img alt="Signal" src="https://img.shields.io/badge/Signal-3A76F0?logo=signal&logoColor=fff"></a>
       <a href="#"><img alt="Proton" src="https://img.shields.io/badge/Proton-7D4698?logo=Proton&logoColor=white"></a>
@@ -80,22 +81,23 @@ Collaboration       : 0 hrs 12 mins   ░▒▒▒▒▒▒▒▒▒▒▒▒▒
       <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
       <a href="#"><img alt="Arc" src="https://img.shields.io/badge/Arc-FCBFBD?logo=arc&logoColor=white"></a>
       <a href="#"><img alt="Tor" src="https://img.shields.io/badge/Tor-7D4698?logo=Tor-Browser&logoColor=white"></a>
-      <a href="#"><img alt="Brackets" src="https://img.shields.io/badge/Brackets-175DDC.svg?&logo=brackets&logoColor=white"></a>
-      <a href="#"><img alt="OrbStack" src="https://img.shields.io/badge/OrbStack-402315.svg?&logo=orbstack&logoColor=white"></a>
+      <a href="#"><img alt="Brackets" src="https://img.shields.io/badge/Brackets-29abe3.svg?&logo=brackets&logoColor=white"></a>
+      <a href="#"><img alt="OrbStack" src="https://img.shields.io/badge/OrbStack-9a4ad7.svg?&logo=orbstack&logoColor=white"></a>
       <a href="#"><img alt="OneFlow" src="https://img.shields.io/badge/OneFlow-4C4A73.svg?&logo=OneFlow&logoColor=white"></a>
       <a href="#"><img alt="Salt Security" src="https://img.shields.io/badge/Salt-Security-7D4698.svg?&logo=Salt&logoColor=white"></a>
       <a href="#"><img alt="Wallarm" src="https://img.shields.io/badge/Wallarm-F38020.svg?&logo=Wallarm&logoColor=white"></a>
-      <a href="#"><img alt="PDFParser" src="https://img.shields.io/badge/CLI-PDFParser-14354C?logo=Parser&logoColor=white"></a>
-      <a href="#"><img alt="Nuclei" src="https://img.shields.io/badge/CLI-nuclei-7952B3?logo=Scan&logoColor=white"></a>
-      <a href="#"><img alt="Nikto" src="https://img.shields.io/badge/CLI-nikto-7952B3?logo=Scan&logoColor=white"></a>
-      <a href="#"><img alt="CURL" src="https://img.shields.io/badge/CLI-curl-7952B3?logo=Scan&logoColor=white"></a>
-      <a href="#"><img alt="Dig" src="https://img.shields.io/badge/CLI-dig-7952B3?logo=Scan&logoColor=white"></a>
-      <a href="#"><img alt="Amass" src="https://img.shields.io/badge/Owasp-Amass-7952B3?logo=OWASP&logoColor=white"></a>
+      <a href="#"><img alt="PDFParser" src="https://img.shields.io/badge/CLI-PDFParser-14354C"></a>
+      <a href="#"><img alt="Nuclei" src="https://img.shields.io/badge/CLI-nuclei-14354C"></a>
+      <a href="#"><img alt="Nikto" src="https://img.shields.io/badge/CLI-nikto-14354C"></a>
+      <a href="#"><img alt="CURL" src="https://img.shields.io/badge/CLI-curl-14354C"></a>
+      <a href="#"><img alt="Dig" src="https://img.shields.io/badge/CLI-dig-14354C"></a>
+      <a href="#"><img alt="grep" src="https://img.shields.io/badge/CLI-grep-14354C"></a>
+      <a href="#"><img alt="Amass" src="https://img.shields.io/badge/Owasp-Amass-7952B3?logo=OWASP"></a>
       <a href="#"><img alt="ZAP" src="https://img.shields.io/badge/Owasp-Zap-175DDC?logo=OWASP&logoColor=white"></a>
       <a href="#"><img alt="Sandbox" src="https://img.shields.io/badge/Cuckoo-Sandbox-2496ED?logo=Sandbox&logoColor=white"></a>
-      <a href="#"><img alt="Sandbox" src="https://img.shields.io/badge/HybridAnalysis-Sandbox-2496ED?logo=Sandbox&logoColor=white"></a>
+      <a href="#"><img alt="Sandbox" src="https://img.shields.io/badge/Hybrid%20Analysis-Sandbox-2496ED?logo=Sandbox&logoColor=white"></a>
       <a href="#"><img alt="Sandbox" src="https://img.shields.io/badge/Joe-Sandbox-2496ED?logo=Sandbox&logoColor=white"></a>
-      <a href="#"><img alt="Sandbox" src="https://img.shields.io/badge/Virus-Total-2496ED?logo=Sandbox&logoColor=white"></a>
+      <a href="#"><img alt="Sandbox" src="https://img.shields.io/badge/VirusTotal-364dff?logo=virustotal&logoColor=white"></a>
       <a href="#"><img alt="Collector" src="https://img.shields.io/badge/DFIR-ORC-07405e?logo=Collector&logoColor=white"></a>
       <a href="#"><img alt="IR" src="https://img.shields.io/badge/DFIR-Cortex-07405e?logo=IR&logoColor=white"></a>
       <a href="#"><img alt="IR" src="https://img.shields.io/badge/DFIR-TheHive-07405e?logo=IR&logoColor=white"></a>
@@ -106,10 +108,17 @@ Collaboration       : 0 hrs 12 mins   ░▒▒▒▒▒▒▒▒▒▒▒▒▒
       <a href="#"><img alt="IR" src="https://img.shields.io/badge/DFIR-Volatility-F38020?logo=IR&logoColor=white"></a>
       <a href="#"><img alt="IR" src="https://img.shields.io/badge/DFIR-Viper-F38020?logo=IR&logoColor=white"></a>
       <a href="#"><img alt="IR" src="https://img.shields.io/badge/DFIR-RegRipper-F38020?logo=IR&logoColor=white"></a>
-      <a href="#"><img alt="Automation" src="https://img.shields.io/badge/Renovate-4ea94b?logo=Automation&logoColor=white"></a>
-      <a href="#"><img alt="Automation" src="https://img.shields.io/badge/Dependabot-4ea94b?logo=Automation&logoColor=white"></a>
+      <a href="#"><img alt="Automation" src="https://img.shields.io/badge/Renovate-1A1F6C?logo=renovate&logoColor=white"></a>
       <a href="#"><img alt="Automation" src="https://img.shields.io/badge/Greenkeeper-4ea94b?logo=Automation&logoColor=white"></a>
       <a href="#"><img alt="Automation" src="https://img.shields.io/badge/GitGuardian-4ea94b?logo=Automation&logoColor=white"></a>
+      <a href="#"><img alt="Automation" src="https://img.shields.io/badge/Dependabot-2a65ce?logo=dependabot&logoColor=white"></a>
+      <a href="#"><img alt="Authy" src="https://img.shields.io/badge/Authy-f32f47?logo=Authy&logoColor=white"></a>
+      <a href="#"><img alt="Auth0" src="https://img.shields.io/badge/Auth0-eb5522?logo=auth0&logoColor=white"></a>
+      <a href="#"><img alt="HIBP" src="https://img.shields.io/badge/HIBP-2d6b8c?logo=haveibeenpwned&logoColor=white"></a>
+      <a href="#"><img alt="NextDNS" src="https://img.shields.io/badge/NextDNS-007BFF.svg?&logo=nextdns&logoColor=white"></a>
+      <a href="#"><img alt="Redmine" src="https://img.shields.io/badge/Redmine-B32024.svg?&logo=Redmine&logoColor=white"></a>
+      <a href="#"><img alt="PagerDuty" src="https://img.shields.io/badge/PagerDuty-06AC38.svg?&logo=pagerduty&logoColor=white"></a>
+      <a href="#"><img alt="Perplexity" src="https://img.shields.io/badge/Perplexity-1FB8CD.svg?&logo=Perplexity&logoColor=white"></a>
   </p>
 
 -------
