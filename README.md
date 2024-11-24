@@ -119,8 +119,10 @@ Collaboration       : 0 hrs 12 mins   ░▒▒▒▒▒▒▒▒▒▒▒▒▒
       <a href="#"><img alt="Redmine" src="https://img.shields.io/badge/Redmine-B32024.svg?&logo=Redmine&logoColor=white"></a>
       <a href="#"><img alt="PagerDuty" src="https://img.shields.io/badge/PagerDuty-06AC38.svg?&logo=pagerduty&logoColor=white"></a>
       <a href="#"><img alt="Perplexity" src="https://img.shields.io/badge/Perplexity-1FB8CD.svg?&logo=Perplexity&logoColor=white"></a>
+      <a href="#"><img alt="HarckerOne" src="https://img.shields.io/badge/HarckerOne-494649.svg?&logo=hackerone&logoColor=white"></a>
   </p>
 
+hackerone
 -------
 
 ![Website status Badge](https://img.shields.io/website-up-down-green-red/https/securelayer.co.svg) [![Commits Badge](https://badges.pufler.dev/commits/monthly/securelayer)](https://securelayer.co) [![Years Badge](https://badges.pufler.dev/years/securelayer)](https://securelayer.co) [![Repos Badge](https://badges.pufler.dev/repos/securelayer)](https://securelayer.co) [![Gists Badge](https://badges.pufler.dev/gists/securelayer)](https://securelayer.co) [![Visits Badge](https://badges.pufler.dev/visits/securelayer/securelayer)](https://securelayer.co) [![Updated Badge](https://badges.pufler.dev/updated/securelayer/securelayer)](https://securelayer.co) ![Profile View Counter](https://komarev.com/ghpvc/?username=your-github-username&label=testv1) ![Profile View Counter](https://komarev.com/ghpvc/?username=SecureLayer&abbreviated=true&label=testv2&color=FCBFBD) 
