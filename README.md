@@ -3,12 +3,12 @@
 <h1 align="center">
 <!-- Typing SVG section -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=I+am+a+Cybersecurity+Expert;with+10%2B%20years+of+experience;I+am+always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=234899&vCenter=true&pause=1000&size=22"/></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=I+am+a+Cybersecurity+Expert;with+10%2B%20years+of+experience;I+am+always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=583192&vCenter=true&pause=1000&size=22"/></a>
 </h1>
 
-🌱 Currently improving my knowledge on: ![Learning Badge](https://img.shields.io/badge/AI-Security-121011) ![Learning Badge](https://img.shields.io/badge/Blockchain-Security-121011) ![Learning Badge](https://img.shields.io/badge/Automation-121011)
+🌱 Currently improving my knowledge on: ![Learning Badge](https://img.shields.io/badge/AI-Security-583192) ![Learning Badge](https://img.shields.io/badge/Blockchain-Security-583192) ![Learning Badge](https://img.shields.io/badge/Automation-583192)
 
-[![Hire Me Badge](https://img.shields.io/badge/Hire_me-freelance@securelayer.co-7D4698)](mailto:freelance@securelayer.co?subject=I%20need%20your%20cybersecurity%20expertise&body=Hello%20SecureLayer,%20I%20need%20some%20guidance%20on%20a%20security%20project.%20Can%20we%20plan%20a%20meeting?) or [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-Anything-0d86c3.svg)](https://GitHub.com/securelayer/ama) or [![Kofi Badge](https://badgen.net/badge/icon/Buy%20me%20a%20kofi?icon=kofi&label)](https://ko-fi.com/securelayer) - [![Updated Badge](https://badges.pufler.dev/updated/securelayer/securelayer)](https://securelayer.co) 
+[![Hire Me Badge](https://img.shields.io/badge/Hire_me-freelance@securelayer.co-0285FF?&logo=minutemailer&logoColor=FFFFFF)](mailto:freelance@securelayer.co?subject=I%20need%20your%20cybersecurity%20expertise&body=Hello%20SecureLayer,%20I%20need%20some%20guidance%20on%20a%20security%20project.%20Can%20we%20plan%20a%20meeting?) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-Anything-0285FF?logo=GitHub)](https://github.com/securelayer/ama) [![Bluesky Badge](https://img.shields.io/badge/Join%20me-on%20Bluesky-0285FF?logo=bluesky&logoColor=fff)](https://bsky.app/profile/securelayer.co)  [![Kofi Badge2](https://img.shields.io/badge/Buy%20me-a%20Coffee-0285FF?logo=buymeacoffee&logoColor=fff)](https://ko-fi.com/securelayer)
 
 ----
 
@@ -55,6 +55,7 @@ Collaboration       : 0 hrs 12 mins   ░▒▒▒▒▒▒▒▒▒▒▒▒▒
       <a href="#"><img alt="SublimeText" src="https://img.shields.io/badge/SublimeText-575757.svg?logo=sublime-text&logoColor=white"></a>
       <a href="#"><img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white"></a>
       <a href="#"><img alt="Github" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"></a>
+      <a href="#"><img alt="Bluesky" src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff"></a>
       <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
       <a href="#"><img alt="Hugo" src="https://img.shields.io/badge/Hugo-FF4088?logo=hugo&logoColor=fff"></a>
@@ -113,7 +114,7 @@ Collaboration       : 0 hrs 12 mins   ░▒▒▒▒▒▒▒▒▒▒▒▒▒
 
 -------
 
-![Website status Badge](https://img.shields.io/website-up-down-green-red/https/securelayer.co.svg) [![Commits Badge](https://badges.pufler.dev/commits/monthly/securelayer)](https://securelayer.co) [![Years Badge](https://badges.pufler.dev/years/securelayer)](https://securelayer.co) [![Repos Badge](https://badges.pufler.dev/repos/securelayer)](https://securelayer.co) [![Gists Badge](https://badges.pufler.dev/gists/securelayer)](https://securelayer.co) [![Visits Badge](https://badges.pufler.dev/visits/securelayer/securelayer)](https://securelayer.co) ![Profile View Counter](https://komarev.com/ghpvc/?username=your-github-username&label=testv1) ![Profile View Counter](https://komarev.com/ghpvc/?username=SecureLayer&abbreviated=true&label=testv2&color=FCBFBD) 
+![Website status Badge](https://img.shields.io/website-up-down-green-red/https/securelayer.co.svg) [![Commits Badge](https://badges.pufler.dev/commits/monthly/securelayer)](https://securelayer.co) [![Years Badge](https://badges.pufler.dev/years/securelayer)](https://securelayer.co) [![Repos Badge](https://badges.pufler.dev/repos/securelayer)](https://securelayer.co) [![Gists Badge](https://badges.pufler.dev/gists/securelayer)](https://securelayer.co) [![Visits Badge](https://badges.pufler.dev/visits/securelayer/securelayer)](https://securelayer.co) [![Updated Badge](https://badges.pufler.dev/updated/securelayer/securelayer)](https://securelayer.co) ![Profile View Counter](https://komarev.com/ghpvc/?username=your-github-username&label=testv1) ![Profile View Counter](https://komarev.com/ghpvc/?username=SecureLayer&abbreviated=true&label=testv2&color=FCBFBD) 
 
 <h1 align="center"><a href="https://carbonneutralwebsite.org/" target="_blank" rel="noreferrer"><img src="https://carbonneutralwebsite.org/api/banner/securelayer.co/1.62mg/light.svg" width="300px"  alt="Carbon impact of this sec page" /></a>
 </h1>
