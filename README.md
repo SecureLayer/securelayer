@@ -17,19 +17,19 @@
 <!--START_SECTION:waka-->
 
 ```text
-Sec Incident        : 0 hrs 30 mins   █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 4.29 %
+Sec Incident        : 0 hrs 30 mins   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 3.50 %
 Monitoring          : 0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
 Cloud Sec Ops       : 0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
-AI Sec              : 3 hrs 0 mins    ██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 25.71 %
-API Sec             : 2 hrs 30 mins   █████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 21.43 %
-Blockchain Sec      : 1 hrs 0 mins    ██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 8.57 %
+AI Sec              : 3 hrs 0 mins    █████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 21.00 %
+API Sec             : 2 hrs 30 mins   ████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 17.50 %
+Blockchain Sec      : 1 hrs 20 mins   ██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 9.33 %
 IAM                 : 0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
-Compliance          : 0 hrs 50 mins   █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 7.14 %
+Compliance          : 1 hrs 20 mins   ██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 9.33 %
 Automation          : 0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
-Data Sec            : 0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
+Data Sec            : 0 hrs 20 mins   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 2.33 %
 Documentation       : 0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
-Sec Awareness       : 3 hrs 30 mins   ███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 30.00 %
-Collaboration       : 0 hrs 20 mins   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 2.86 %
+Sec Awareness       : 4 hrs 15 mins   ███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 29.75 %
+Collaboration       : 1 hrs 2 mins    █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 7.23 %
 ```
 <!--END_SECTION:waka-->
 
