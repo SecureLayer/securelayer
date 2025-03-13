@@ -124,7 +124,15 @@ Collaboration       : 5 hrs 0 mins    ██▒▒▒▒▒▒▒▒▒▒▒▒
 
 -------
 
-[![Website status Badge](https://img.shields.io/website-up-down-4fcc27-f32f47/https/securelayer.co.svg)](https://securelayer.co) [![Commits Badge](https://badges.pufler.dev/commits/monthly/securelayer)](https://securelayer.co) [![Years Badge](https://badges.pufler.dev/years/securelayer)](https://securelayer.co) [![Repos Badge](https://badges.pufler.dev/repos/securelayer)](https://securelayer.co) [![Gists Badge](https://badges.pufler.dev/gists/securelayer)](https://securelayer.co) [![WebsiteWeeklyVisits](https://badges.pufler.dev/visits/securelayer/securelayer)](https://securelayer.co) [![Updated Badge](https://badges.pufler.dev/updated/securelayer/securelayer)](https://securelayer.co) ![Profile View Counter](https://komarev.com/ghpvc/?username=your-github-username&label=ProfileView2&abbreviated=true&color=4fcc27) ![Profile View Counter](https://komarev.com/ghpvc/?username=SecureLayer&abbreviated=true&label=ProfileView&color=4fcc27) 
+[![Website status Badge](https://img.shields.io/website-up-down-4fcc27-f32f47/https/securelayer.co.svg)](https://securelayer.co) 
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/securelayer)](https://securelayer.co) 
+[![Years Badge](https://badges.pufler.dev/years/securelayer)](https://securelayer.co) 
+[![Repos Badge](https://badges.pufler.dev/repos/securelayer)](https://securelayer.co) 
+[![Gists Badge](https://badges.pufler.dev/gists/securelayer)](https://securelayer.co) 
+[![WebsiteWeeklyVisits](https://badges.pufler.dev/visits/securelayer/securelayer)](https://securelayer.co) 
+[![Updated Badge](https://badges.pufler.dev/updated/securelayer/securelayer)](https://securelayer.co) 
+[![Profile View Counter](https://komarev.com/ghpvc/?username=your-github-username&label=ProfileView2&abbreviated=true&color=4fcc27) 
+[![Profile View Counter](https://komarev.com/ghpvc/?username=SecureLayer&abbreviated=true&label=ProfileView&color=4fcc27) 
 
 <h1 align="center"><a href="https://carbonneutralwebsite.org/" target="_blank" rel="noreferrer"><img src="https://carbonneutralwebsite.org/api/banner/securelayer.co/1.62mg/light.svg" width="300px"  alt="Carbon impact of this sec page" /></a>
 </h1>
