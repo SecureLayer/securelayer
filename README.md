@@ -131,8 +131,8 @@ Collaboration       : 5 hrs 0 mins    ██▒▒▒▒▒▒▒▒▒▒▒▒
 [![Gists Badge](https://badges.pufler.dev/gists/securelayer)](https://securelayer.co) 
 [![WebsiteWeeklyVisits](https://badges.pufler.dev/visits/securelayer/securelayer)](https://securelayer.co) 
 [![Updated Badge](https://badges.pufler.dev/updated/securelayer/securelayer)](https://securelayer.co) 
-[![Profile View Counter](https://komarev.com/ghpvc/?username=your-github-username&label=ProfileView2&abbreviated=true&color=4fcc27) 
-[![Profile View Counter](https://komarev.com/ghpvc/?username=SecureLayer&abbreviated=true&label=ProfileView&color=4fcc27) 
+![Profile View Counter](https://komarev.com/ghpvc/?username=your-github-username&label=ProfileView2&abbreviated=true&color=4fcc27) 
+![Profile View Counter](https://komarev.com/ghpvc/?username=SecureLayer&abbreviated=true&label=ProfileView&color=4fcc27) 
 
 <h1 align="center"><a href="https://carbonneutralwebsite.org/" target="_blank" rel="noreferrer"><img src="https://carbonneutralwebsite.org/api/banner/securelayer.co/1.62mg/light.svg" width="300px"  alt="Carbon impact of this sec page" /></a>
 </h1>
