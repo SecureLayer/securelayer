@@ -120,6 +120,7 @@ Collaboration       : 5 hrs 0 mins    ██▒▒▒▒▒▒▒▒▒▒▒▒
       <a href="#"><img alt="PagerDuty" src="https://img.shields.io/badge/PagerDuty-06AC38.svg?&logo=pagerduty&logoColor=white"></a>
       <a href="#"><img alt="Perplexity" src="https://img.shields.io/badge/Perplexity-1FB8CD.svg?&logo=Perplexity&logoColor=white"></a>
       <a href="#"><img alt="HarckerOne" src="https://img.shields.io/badge/HarckerOne-494649.svg?&logo=hackerone&logoColor=white"></a>
+      <a href="#"><img alt="WorkBrew" src="https://img.shields.io/badge/WorkBrew-603df5.svg?&logo=Wallarm&logoColor=white"></a>
   </p>
 
 -------
