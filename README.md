@@ -90,6 +90,7 @@ Collaboration       : 5 hrs 0 mins    ██▒▒▒▒▒▒▒▒▒▒▒▒
       <a href="#"><img alt="Nuclei" src="https://img.shields.io/badge/CLI-nuclei-14354C"></a>
       <a href="#"><img alt="Nikto" src="https://img.shields.io/badge/CLI-nikto-14354C"></a>
       <a href="#"><img alt="CURL" src="https://img.shields.io/badge/CLI-curl-14354C"></a>
+      <a href="#"><img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black"></a>
       <a href="#"><img alt="Dig" src="https://img.shields.io/badge/CLI-dig-14354C"></a>
       <a href="#"><img alt="grep" src="https://img.shields.io/badge/CLI-grep-14354C"></a>
       <a href="#"><img alt="Amass" src="https://img.shields.io/badge/Owasp-Amass-7952B3?logo=OWASP"></a>
@@ -120,7 +121,8 @@ Collaboration       : 5 hrs 0 mins    ██▒▒▒▒▒▒▒▒▒▒▒▒
       <a href="#"><img alt="PagerDuty" src="https://img.shields.io/badge/PagerDuty-06AC38.svg?&logo=pagerduty&logoColor=white"></a>
       <a href="#"><img alt="Perplexity" src="https://img.shields.io/badge/Perplexity-1FB8CD.svg?&logo=Perplexity&logoColor=white"></a>
       <a href="#"><img alt="HarckerOne" src="https://img.shields.io/badge/HarckerOne-494649.svg?&logo=hackerone&logoColor=white"></a>
-      <a href="#"><img alt="WorkBrew" src="https://img.shields.io/badge/WorkBrew-603df5.svg?&logo=Wallarm&logoColor=white"></a>
+      <a href="#"><img alt="WorkBrew" src="https://img.shields.io/badge/Workbrew-663BFF?logo=homebrew&logoColor=fff"></a>
+      <a href="#"><img alt="Zed" src="https://img.shields.io/badge/Zed-white?logo=zedindustries&logoColor=084CCF"></a>
   </p>
 
 -------
