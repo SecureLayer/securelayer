@@ -3,7 +3,7 @@
 <h1 align="center">
 <!-- Typing SVG section -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=I+am+helping+businesses;unlock+access+to+new+markets;with+an+improved+cybersecurity;10%2B%20years+of+experience;Hire+me+as+SecOps+CISO+or+RSSI&font=Fira%20Code&center=true&width=440&height=45&color=583192&vCenter=true&pause=1000&size=22"/></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=I+am+helping+businesses;unlock+access+to+new+markets;with+an+improved+cybersecurity;Hire+me+as+SecOps+or+CISO+or+RSSI;with+10%2B%20years+of+experience;&font=Fira%20Code&center=true&width=440&height=45&color=583192&vCenter=true&pause=1000&size=22"/></a>
 </h1>
 
 🌱 Currently improving my knowledge on: ![Learning Badge](https://img.shields.io/badge/AI-Security-583192) ![Learning Badge](https://img.shields.io/badge/Blockchain-Security-583192) ![Learning Badge](https://img.shields.io/badge/Automation-583192)
