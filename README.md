@@ -8,7 +8,7 @@
 
 🌱 Currently improving my knowledge on: ![Learning Badge](https://img.shields.io/badge/AI-Security-583192) ![Learning Badge](https://img.shields.io/badge/Blockchain-Security-583192) ![Learning Badge](https://img.shields.io/badge/Automation-583192)
 
-[![Hire Me Badge](https://img.shields.io/badge/Hire_me-freelance@securelayer.co-0285FF?&logo=freelancer&logoColor=FFFFFF)](mailto:freelance@securelayer.co?subject=I%20need%20your%20cybersecurity%20expertise&body=Hello%20SecureLayer,%20I%20need%20some%20guidance%20on%20a%20security%20project.%20Can%20we%20plan%20a%20meeting?) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-Anything-0285FF?logo=GitHub)](https://github.com/securelayer/ama) [![Bluesky Badge](https://img.shields.io/badge/Join%20me-on%20Bluesky-0285FF?logo=bluesky&logoColor=fff)](https://bsky.app/profile/securelayer.co)  [![Kofi Badge2](https://img.shields.io/badge/Buy%20me-a%20Coffee-0285FF?logo=buymeacoffee&logoColor=fff)](https://ko-fi.com/securelayer)
+[![Hire Me Badge](https://img.shields.io/badge/Hire_me-freelance@securelayer.co-0285FF?&logo=freelancer&logoColor=FFFFFF)](mailto:freelance@securelayer.co?subject=I%20need%20your%20cybersecurity%20expertise&body=Hello%20SecureLayer,%20I%20need%20some%20guidance%20on%20a%20security%20project.%20Can%20we%20plan%20a%20meeting?) [![Bluesky Badge](https://img.shields.io/badge/Join%20me-on%20Bluesky-0285FF?logo=bluesky&logoColor=fff)](https://bsky.app/profile/securelayer.co) [![Kofi Badge2](https://img.shields.io/badge/Buy%20me-a%20Coffee-0285FF?logo=buymeacoffee&logoColor=fff)](https://ko-fi.com/securelayer) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-Anything-0285FF?logo=GitHub)](https://github.com/securelayer/ama)
 
 ----
 
