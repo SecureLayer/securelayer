@@ -16,19 +16,20 @@
 
 ```text
 Risk management & leadership    : 0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
-Privacy                         : 0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
-Technical cybersecurity         : 0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
-Development and cloud           : 5 hrs 0 mins    ██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 11.83 %
+Privacy                         : 0 hrs 20 mins   █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 2.76 %
+Technical cybersecurity         : 1 hrs 30 mins   ███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 12.41 %
+Development and cloud           : 0 hrs 20 mins   █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 2.76 %
 Management of data sets         : 0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
-System management               : 1 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 2.37 %
+System management               : 0 hrs 15 mins   █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 2.07 %
 Incident management             : 0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
-Compliance                      : 0 hrs 30 mins   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 1.18 %
-Partner management              : 15 hrs 0 mins   ████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 35.50 %
+Compliance                      : 0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
+Automation                      : 7 hrs 20 mins   ███████████████▒▒▒▒▒▒▒▒▒▒ 60.69 %
+Partner management              : 0 hrs 50 mins   █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 6.90 %
 Remote work and mobile devices  : 0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
-Documentation                   : 15 hrs 0 mins   ████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 35.50 %
-Personnel security              : 0 hrs 45 mins   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 1.78 %
-Physical security               : 5 hrs 0 mins    ██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 11.83 %
-Email and phishing              : 5 hrs 0 mins    ██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 11.83 %
+Documentation                   : 1 hrs 0 mins    ██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 8.28 %
+Personnel security              : 0 hrs 30 mins   █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 4.14 %
+Physical security               : 0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
+Email and phishing              : 0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
 ```
 <!--END_SECTION:waka-->
 
