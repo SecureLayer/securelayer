@@ -18,9 +18,9 @@
 Compliance:                                     0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
 Security Metrics & Reporting:                   0 hrs 30 mins   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 1.08 %
 Technical Cybersecurity:                        0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
-Threat Detection & Incident Response:           1 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 2.15 %
 Operational Security & Engineering:             0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
 Data Security:                                  0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
+Threat Detection & Incident Response:           1 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 2.15 %
 Vulnerability & Risk Management:                10 hrs 0 mins   █████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 21.51 %
 Collaboration & Workforce Development:          35 hrs 0 mins   ██████████████████▒▒▒▒▒▒▒ 75.27 %
 ```
