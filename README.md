@@ -132,7 +132,6 @@ Planning & Improvement:                5 hrs 0 mins    ███▒▒▒▒▒�
 [![Years Badge](https://badges.pufler.dev/years/securelayer)](https://securelayer.co) 
 [![Repos Badge](https://badges.pufler.dev/repos/securelayer)](https://securelayer.co) 
 [![Gists Badge](https://badges.pufler.dev/gists/securelayer)](https://securelayer.co) 
-[![WebsiteWeeklyVisits](https://badges.pufler.dev/visits/securelayer/securelayer)](https://securelayer.co) 
 [![Updated Badge](https://badges.pufler.dev/updated/securelayer/securelayer)](https://securelayer.co) 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=SecureLayer&abbreviated=true&label=ProfileVisit&color=4fcc27) 
 
