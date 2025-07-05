@@ -10,26 +10,30 @@
 
 ----
 
+<summary><h2>Most used tools/command of the week </h2></summary>
+<a href="#"><img alt="Gitlab" src="https://img.shields.io/badge/GitLab-%23181717.svg?logo=gitlab"></a>  
+<a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
+<a href="#"><img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black"></a>
+<a href="#"><img alt="ssh" src="https://img.shields.io/badge/CLI-ssh-14354C"></a>
+<a href="#"><img alt="grep" src="https://img.shields.io/badge/CLI-grep-14354C"></a>
+<a href="#"><img alt="yt-dlp" src="https://img.shields.io/badge/CLI-ytdlp-14354C"></a>
+<a href="#"><img alt="OneNotes" src="https://img.shields.io/badge/OneNote-0078D4?logo=onenote&logoColor=white"></a>
+
+----
+
 <summary><h2>📊 <b>This week I spent my time on</b></h2></summary>
 
 <!--START_SECTION:waka-->
 
 ```text
-Threat Monitoring and Detection:       5 hrs 0 mins    ███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 12.04 %
-Incident Response Coordination:        0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
-Technical cybersecurity:               10 hrs 0 mins   ██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 24.08 %
-SIEM and Log Management:               0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
-Tooling Optimization:                  10 hrs 0 mins   ██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 24.08 %
-Infra Health Checks:                   0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
-Metrics and KPIs:                      0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
-Reporting:                             0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
-Threat Intel:                          0 hrs 42 mins   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 1.69 %
-Vulnerability Management:              0 hrs 50 mins   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 2.01 %
-Team Briefings:                        5 hrs 0 mins    ███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 12.04 %
-Alerts:                                5 hrs 0 mins    ███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 12.04 %
-Digital Forensics:                     0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
-Policies:                              0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
-Planning & Improvement:                5 hrs 0 mins    ███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 12.04 %
+Audit Readiness & Regulatory Alignment:      1 hrs 20 mins   █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 4.06 %
+Security Metrics & Reporting:                0 hrs 30 mins   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 1.52 %
+Technical cybersecurity:                     7 hrs 0 mins    █████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 21.32 %
+Threat Detection & Incident Response:        0 hrs 30 mins   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 1.52 %
+Operational Security & Engineering:          5 hrs 0 mins    ███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 15.23 %
+Data Security:                               0 hrs 20 mins   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 1.02 %
+Vulnerability & Risk Management:             0 hrs 40 mins   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 2.03 %
+Collaboration & Workforce Development:       17 hrs 30 mins  █████████████▒▒▒▒▒▒▒▒▒▒▒▒ 53.30 %
 ```
 <!--END_SECTION:waka-->
 
@@ -128,13 +132,9 @@ Planning & Improvement:                5 hrs 0 mins    ███▒▒▒▒▒�
 
 -------
 
+[![GitHub latest commit](https://badgen.net/github/last-commit/Securelayer/securelayer)](https://github.com/Securelayer/securelayer)
+[![Profile View Counter](https://komarev.com/ghpvc/?username=SecureLayer&abbreviated=true&label=ProfileVisit&color=4fcc27) 
 [![Website status Badge](https://img.shields.io/website-up-down-4fcc27-f32f47/https/securelayer.co.svg)](https://securelayer.co) 
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/securelayer)](https://securelayer.co) 
-[![Years Badge](https://badges.pufler.dev/years/securelayer)](https://securelayer.co) 
-[![Repos Badge](https://badges.pufler.dev/repos/securelayer)](https://securelayer.co) 
-[![Gists Badge](https://badges.pufler.dev/gists/securelayer)](https://securelayer.co) 
-[![Updated Badge](https://badges.pufler.dev/updated/securelayer/securelayer)](https://securelayer.co) 
-![Profile View Counter](https://komarev.com/ghpvc/?username=SecureLayer&abbreviated=true&label=ProfileVisit&color=4fcc27) 
 
 <h1 align="center"><a href="https://carbonneutralwebsite.org/" target="_blank" rel="noreferrer"><img src="https://carbonneutralwebsite.org/api/banner/securelayer.co/1.62mg/light.svg" width="300px"  alt="Carbon impact of this sec page" /></a>
 </h1>
