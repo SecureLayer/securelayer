@@ -14,10 +14,10 @@
 <a href="#"><img alt="Gitlab" src="https://img.shields.io/badge/GitLab-%23181717.svg?logo=gitlab"></a>  
 <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
 <a href="#"><img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black"></a>
+<a href="#"><img alt="OneNotes" src="https://img.shields.io/badge/OneNote-0078D4?logo=onenote&logoColor=white"></a>
 <a href="#"><img alt="ssh" src="https://img.shields.io/badge/CLI-ssh-14354C"></a>
 <a href="#"><img alt="grep" src="https://img.shields.io/badge/CLI-grep-14354C"></a>
 <a href="#"><img alt="yt-dlp" src="https://img.shields.io/badge/CLI-ytdlp-14354C"></a>
-<a href="#"><img alt="OneNotes" src="https://img.shields.io/badge/OneNote-0078D4?logo=onenote&logoColor=white"></a>
 
 ----
 
@@ -133,7 +133,7 @@ Collaboration & Workforce Development:       17 hrs 30 mins  ██████�
 -------
 
 [![GitHub latest commit](https://badgen.net/github/last-commit/Securelayer/securelayer)](https://github.com/Securelayer/securelayer)
-[![Profile View Counter](https://komarev.com/ghpvc/?username=SecureLayer&abbreviated=true&label=ProfileVisit&color=4fcc27) 
+[![Profile View Counter](https://komarev.com/ghpvc/?username=SecureLayer&abbreviated=true&label=ProfileVisit&color=4fcc27)](https://securelayer.co) 
 [![Website status Badge](https://img.shields.io/website-up-down-4fcc27-f32f47/https/securelayer.co.svg)](https://securelayer.co) 
 
 <h1 align="center"><a href="https://carbonneutralwebsite.org/" target="_blank" rel="noreferrer"><img src="https://carbonneutralwebsite.org/api/banner/securelayer.co/1.62mg/light.svg" width="300px"  alt="Carbon impact of this sec page" /></a>
