@@ -10,6 +10,12 @@
 
 ----
 
+<summary><h2> Learning of the day </h2></summary>
+
+Blockchain learning: [#-----------------------------] 160.0 minutes logged today
+
+----
+
 <summary><h2>Most used tools/command of the week </h2></summary>
 <a href="#"><img alt="Gitlab" src="https://img.shields.io/badge/GitLab-%23181717.svg?logo=gitlab"></a>  
 <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
