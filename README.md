@@ -12,7 +12,7 @@
 
 <summary><h2> Learning of the day </h2></summary>
 
-Blockchain learning: [#-----------------------------] 160.0 minutes logged today
+Blockchain learning: [█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒] 165.0 minutes logged
 
 ----
 
