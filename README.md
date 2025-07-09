@@ -12,7 +12,7 @@
 
 <summary><h2> Learning of the day </h2></summary>
 
-Blockchain learning: [█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒] 181.0 minutes logged
+Micro learning sesssions : [█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒] 196.0 minutes logged
 
 ----
 
