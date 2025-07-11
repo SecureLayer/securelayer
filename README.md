@@ -12,7 +12,7 @@
 
 <summary><h2> Learning of the day </h2></summary>
 
-Micro learning sesssions : [█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒] 201.0 minutes logged
+Micro learning sesssions : [█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒] 211.0 minutes logged
 
 ----
 
