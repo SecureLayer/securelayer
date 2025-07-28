@@ -12,9 +12,9 @@
 
 <summary><h2> Learning of the day </h2></summary>
 
-Micro learning sesssions : [█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒] 241.0 minutes logged
+Micro learning sesssions : [█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒] 251.0 minutes logged
 
-----
+----s
 
 <summary><h2>Most used tools/command of the week </h2></summary>
 <a href="#"><img alt="Gitlab" src="https://img.shields.io/badge/GitLab-%23181717.svg?logo=gitlab"></a>  
@@ -32,14 +32,14 @@ Micro learning sesssions : [█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒�
 <!--START_SECTION:waka-->
 
 ```text
-Audit Readiness & Regulatory Alignment:         1 hrs 20 mins   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 2.62 %
-Security Metrics & Reporting:                   8 hrs 0 mins    ███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 15.71 %
-Technical cybersecurity:                        1 hrs 15 mins   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 2.45 %
-Threat Detection & Incident Response:           0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
-Operational Security & Engineering:             10 hrs 0 mins   ████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 19.64 %
-Data Security:                                  0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
-Vulnerability & Risk Management:                0 hrs 20 mins   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.65 %
-Collaboration & Workforce Development:          30 hrs 0 mins   ██████████████▒▒▒▒▒▒▒▒▒▒▒ 58.92 %
+Audit Readiness & Regulatory Alignment:      0 hrs 20 mins   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.74 %
+Security Metrics & Reporting:                0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
+Technical cybersecurity:                     0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
+Threat Detection & Incident Response:        0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
+Operational Security & Engineering:          0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
+Data Security:                               0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
+Vulnerability & Risk Management:             35 hrs 0 mins   ███████████████████▒▒▒▒▒▒ 77.21 %
+Collaboration & Workforce Development:       10 hrs 0 mins   █████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 22.06 %
 ```
 <!--END_SECTION:waka-->
 
