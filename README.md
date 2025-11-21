@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=follow+my+new+workflow;as+a+Cybersecurity+Advisor;with+10%2B%20years+of+experience;&font=Fira%20Code&center=true&width=440&height=45&color=583192&vCenter=true&pause=1000&size=22"/></a>
 </h1>
 
-[![Contact Me Badge](https://img.shields.io/badge/Contact_me-contact@securelayer.co-0285FF?&logo=contact&logoColor=FFFFFF)](mailto:contact@securelayer.co?subject=I%20need%20your%20cybersecurity%20expertise&body=Hello%20SecureLayer,%20I%20need%20some%20guidance%20on%20a%20security%20project.%20Can%20we%20plan%20a%20meeting?) [![Bluesky Badge](https://img.shields.io/badge/Join%20me-on%20Bluesky-0285FF?logo=bluesky&logoColor=fff)](https://bsky.app/profile/securelayer.co) [![Kofi Badge2](https://img.shields.io/badge/Buy%20me-a%20Coffee-0285FF?logo=buymeacoffee&logoColor=fff)](https://ko-fi.com/securelayer) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-Anything-0285FF?logo=GitHub)](https://github.com/securelayer/ama)
+[![Contact Me Badge](https://img.shields.io/badge/Contact_me-contact@securelayer.co-0285FF?&logo=contact&logoColor=FFFFFF)](mailto:contact@securelayer.co?subject=I%20need%20your%20cybersecurity%20expertise&body=Hello%20SecureLayer,%20I%20need%20some%20guidance%20on%20a%20security%20project.%20Can%20we%20plan%20a%20meeting?) [![Bluesky Badge](https://img.shields.io/badge/Join%20me-on%20Bluesky-0285FF?logo=bluesky&logoColor=fff)](https://bsky.app/profile/securelayer.co) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-Anything-0285FF?logo=GitHub)](https://github.com/securelayer/ama)
 
 ----
 
@@ -14,7 +14,7 @@
 
 Micro learning sesssions : [▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒] 0.0 minutes logged
 
-----s
+----
 
 <summary><h2>Most used tools/command of the week </h2></summary>
 <a href="#"><img alt="Gitlab" src="https://img.shields.io/badge/GitLab-%23181717.svg?logo=gitlab"></a>  
