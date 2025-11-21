@@ -3,27 +3,24 @@
 <h1 align="center">
 <!-- Typing SVG section -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=I+am+helping+businesses;unlock+access+to+new+markets;with+an+improved+cybersecurity;Hire+me+as+SecOps+or+CISO+or+SME;with+10%2B%20years+of+experience;&font=Fira%20Code&center=true&width=440&height=45&color=583192&vCenter=true&pause=1000&size=22"/></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=follow+my+new+workflow;as+a+Cybersecurity+Advisor;with+10%2B%20years+of+experience;&font=Fira%20Code&center=true&width=440&height=45&color=583192&vCenter=true&pause=1000&size=22"/></a>
 </h1>
 
-[![Hire Me Badge](https://img.shields.io/badge/Hire_me-freelance@securelayer.co-0285FF?&logo=freelancer&logoColor=FFFFFF)](mailto:freelance@securelayer.co?subject=I%20need%20your%20cybersecurity%20expertise&body=Hello%20SecureLayer,%20I%20need%20some%20guidance%20on%20a%20security%20project.%20Can%20we%20plan%20a%20meeting?) [![Bluesky Badge](https://img.shields.io/badge/Join%20me-on%20Bluesky-0285FF?logo=bluesky&logoColor=fff)](https://bsky.app/profile/securelayer.co) [![Kofi Badge2](https://img.shields.io/badge/Buy%20me-a%20Coffee-0285FF?logo=buymeacoffee&logoColor=fff)](https://ko-fi.com/securelayer) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-Anything-0285FF?logo=GitHub)](https://github.com/securelayer/ama)
+[![Contact Me Badge](https://img.shields.io/badge/Contact_me-contact@securelayer.co-0285FF?&logo=contact&logoColor=FFFFFF)](mailto:contact@securelayer.co?subject=I%20need%20your%20cybersecurity%20expertise&body=Hello%20SecureLayer,%20I%20need%20some%20guidance%20on%20a%20security%20project.%20Can%20we%20plan%20a%20meeting?) [![Bluesky Badge](https://img.shields.io/badge/Join%20me-on%20Bluesky-0285FF?logo=bluesky&logoColor=fff)](https://bsky.app/profile/securelayer.co) [![Kofi Badge2](https://img.shields.io/badge/Buy%20me-a%20Coffee-0285FF?logo=buymeacoffee&logoColor=fff)](https://ko-fi.com/securelayer) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-Anything-0285FF?logo=GitHub)](https://github.com/securelayer/ama)
 
 ----
 
-<summary><h2> Learning of the day </h2></summary>
+<summary><h2> Learning of the month </h2></summary>
 
-Micro learning sesssions : [█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒] 251.0 minutes logged
+Micro learning sesssions : [▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒] 0.0 minutes logged
 
 ----s
 
 <summary><h2>Most used tools/command of the week </h2></summary>
 <a href="#"><img alt="Gitlab" src="https://img.shields.io/badge/GitLab-%23181717.svg?logo=gitlab"></a>  
-<a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
-<a href="#"><img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black"></a>
+<a href="#"><img alt="Github" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"></a>
 <a href="#"><img alt="OneNotes" src="https://img.shields.io/badge/OneNote-0078D4?logo=onenote&logoColor=white"></a>
-<a href="#"><img alt="ssh" src="https://img.shields.io/badge/CLI-ssh-14354C"></a>
-<a href="#"><img alt="grep" src="https://img.shields.io/badge/CLI-grep-14354C"></a>
-<a href="#"><img alt="yt-dlp" src="https://img.shields.io/badge/CLI-ytdlp-14354C"></a>
+<a href="#"><img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white"></a>
 
 ----
 
@@ -32,14 +29,18 @@ Micro learning sesssions : [█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒�
 <!--START_SECTION:waka-->
 
 ```text
-Audit Readiness & Regulatory Alignment:      0 hrs 20 mins   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.74 %
-Security Metrics & Reporting:                0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
-Technical cybersecurity:                     0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
-Threat Detection & Incident Response:        0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
-Operational Security & Engineering:          0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
-Data Security:                               0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
-Vulnerability & Risk Management:             35 hrs 0 mins   ███████████████████▒▒▒▒▒▒ 77.21 %
-Collaboration & Workforce Development:       10 hrs 0 mins   █████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 22.06 %
+Strategic Risk Management           : 7 hrs 0 mins    ████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 16.34 %
+Cybersecurity Policy Development    : 0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
+Incident Response Strategy          : 9 hrs 0 mins    █████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 21.01 %
+Stakeholder Communication           : 1 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 2.33 %
+Vulnerability Management Oversight  : 0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
+Security Awareness Training         : 0 hrs 20 mins   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.78 %
+Resource Allocation and Budgeting   : 10 hrs 0 mins   █████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 23.35 %
+Metrics and Reporting               : 3 hrs 0 mins    █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 7.00 %
+Performance Monitoring              : 0 hrs 30 mins   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 1.17 %
+Executive Briefings                 : 0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
+Crisis Management                   : 0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
+Continuous Improvement              : 12 hrs 0 mins   ███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 28.02 %
 ```
 <!--END_SECTION:waka-->
 
