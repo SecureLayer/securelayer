@@ -17,10 +17,10 @@ Micro learning sesssions : [▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒�
 ----
 
 <summary><h2>Most used tools/command of the week </h2></summary>
-<a href="#"><img alt="Gitlab" src="https://img.shields.io/badge/GitLab-%23181717.svg?logo=gitlab"></a>  
 <a href="#"><img alt="Github" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"></a>
 <a href="#"><img alt="OneNotes" src="https://img.shields.io/badge/OneNote-0078D4?logo=onenote&logoColor=white"></a>
 <a href="#"><img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white"></a>
+<a href="https://www.getgrist.com"><img alt="Grist" src="https://img.shields.io/badge/Grist-%23FF5722.svg?logo=grist&logoColor=white"></a>
 
 ----
 
@@ -29,18 +29,18 @@ Micro learning sesssions : [▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒�
 <!--START_SECTION:waka-->
 
 ```text
-Strategic Risk Management           : 7 hrs 0 mins    ████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 16.34 %
+Strategic Risk Management           : 0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
 Cybersecurity Policy Development    : 0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
-Incident Response Strategy          : 9 hrs 0 mins    █████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 21.01 %
-Stakeholder Communication           : 1 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 2.33 %
-Vulnerability Management Oversight  : 0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
-Security Awareness Training         : 0 hrs 20 mins   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.78 %
-Resource Allocation and Budgeting   : 10 hrs 0 mins   █████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 23.35 %
-Metrics and Reporting               : 3 hrs 0 mins    █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 7.00 %
-Performance Monitoring              : 0 hrs 30 mins   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 1.17 %
-Executive Briefings                 : 0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
+Incident Response Strategy          : 20 hrs 0 mins   ██████████████▒▒▒▒▒▒▒▒▒▒▒ 56.87 %
+Stakeholder Communication           : 10 hrs 0 mins   ███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 28.44 %
+Vulnerability Management Oversight  : 0 hrs 20 mins   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.95 %
+Security Awareness Training         : 0 hrs 20 mins   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.95 %
+Resource Allocation and Budgeting   : 0 hrs 30 mins   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 1.42 %
+Metrics and Reporting               : 1 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 2.84 %
+Performance Monitoring              : 0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
+Executive Briefings                 : 0 hrs 30 mins   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 1.42 %
 Crisis Management                   : 0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
-Continuous Improvement              : 12 hrs 0 mins   ███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 28.02 %
+Continuous Improvement              : 2 hrs 30 mins   █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 7.11 %
 ```
 <!--END_SECTION:waka-->
 
