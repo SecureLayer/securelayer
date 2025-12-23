@@ -6,13 +6,13 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=follow+my+new+workflow;as+a+Cybersecurity+Advisor;with+10%2B%20years+of+experience;&font=Fira%20Code&center=true&width=440&height=45&color=583192&vCenter=true&pause=1000&size=22"/></a>
 </h1>
 
-[![Contact Me Badge](https://img.shields.io/badge/Contact_me-contact@securelayer.co-0285FF?&logo=contact&logoColor=FFFFFF)](mailto:contact@securelayer.co?subject=I%20need%20your%20cybersecurity%20expertise&body=Hello%20SecureLayer,%20I%20need%20some%20guidance%20on%20a%20security%20project.%20Can%20we%20plan%20a%20meeting?) [![Bluesky Badge](https://img.shields.io/badge/Join%20me-on%20Bluesky-0285FF?logo=bluesky&logoColor=fff)](https://bsky.app/profile/securelayer.co) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-Anything-0285FF?logo=GitHub)](https://github.com/securelayer/ama)
+[![Contact Me Badge](https://img.shields.io/badge/Contact_me-contact@securelayer.co-0285FF?&logo=contact&logoColor=FFFFFF)](mailto:contact@securelayer.co?subject=I%20need%20your%20cybersecurity%20expertise&body=Hello%20SecureLayer,%20I%20need%20some%20guidance%20on%20a%20security%20project.%20Can%20we%20plan%20a%20meeting?) [![Bluesky Badge](https://img.shields.io/badge/Join%20me-on%20Bluesky-0285FF?logo=bluesky&logoColor=fff)](https://bsky.app/profile/securelayer.co)
 
 ----
 
 <summary><h2> Learning of the month </h2></summary>
 
-Micro learning sesssions : [▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒] 0.0 minutes logged
+Micro learning sesssions : [████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒] 45.0 minutes logged
 
 ----
 
@@ -29,18 +29,18 @@ Micro learning sesssions : [▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒�
 <!--START_SECTION:waka-->
 
 ```text
-Strategic Risk Management           : 0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
+Strategic Risk Management           : 4 hrs 0 mins    ████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 18.05 %
 Cybersecurity Policy Development    : 0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
-Incident Response Strategy          : 20 hrs 0 mins   ██████████████▒▒▒▒▒▒▒▒▒▒▒ 56.87 %
-Stakeholder Communication           : 10 hrs 0 mins   ███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 28.44 %
-Vulnerability Management Oversight  : 0 hrs 20 mins   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.95 %
-Security Awareness Training         : 0 hrs 20 mins   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.95 %
-Resource Allocation and Budgeting   : 0 hrs 30 mins   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 1.42 %
-Metrics and Reporting               : 1 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 2.84 %
+Incident Response Strategy          : 4 hrs 0 mins    ████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 18.05 %
+Stakeholder Communication           : 2 hrs 0 mins    ██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 9.02 %
+Vulnerability Management Oversight  : 1 hrs 0 mins    █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 4.51 %
+Security Awareness Training         : 0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
+Resource Allocation and Budgeting   : 4 hrs 10 mins   ████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 18.80 %
+Metrics and Reporting               : 1 hrs 0 mins    █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 4.51 %
 Performance Monitoring              : 0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
-Executive Briefings                 : 0 hrs 30 mins   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 1.42 %
-Crisis Management                   : 0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
-Continuous Improvement              : 2 hrs 30 mins   █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 7.11 %
+Executive Briefings                 : 0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
+Crisis Management                   : 4 hrs 0 mins    ████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 18.05 %
+Continuous Improvement              : 2 hrs 0 mins    ██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 9.02 %
 ```
 <!--END_SECTION:waka-->
 
