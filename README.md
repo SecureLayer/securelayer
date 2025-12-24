@@ -3,7 +3,7 @@
 <h1 align="center">
 <!-- Typing SVG section -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=follow+my+new+workflow;as+a+Cybersecurity+Advisor;with+10%2B%20years+of+experience;&font=Fira%20Code&center=true&width=440&height=45&color=583192&vCenter=true&pause=1000&size=22"/></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=join+me+to+explore;the+wild+side+of+cybersecurity;10%2B%20years+in+the+rearview;curiosity+steering+forward;and+a+lot+of+new+thrills+ahead;&font=Fira%20Code&center=true&width=440&height=45&color=583192&vCenter=true&pause=1000&size=22"/></a>
 </h1>
 
 [![Contact Me Badge](https://img.shields.io/badge/Contact_me-contact@securelayer.co-0285FF?&logo=contact&logoColor=FFFFFF)](mailto:contact@securelayer.co?subject=I%20need%20your%20cybersecurity%20expertise&body=Hello%20SecureLayer,%20I%20need%20some%20guidance%20on%20a%20security%20project.%20Can%20we%20plan%20a%20meeting?) [![Bluesky Badge](https://img.shields.io/badge/Join%20me-on%20Bluesky-0285FF?logo=bluesky&logoColor=fff)](https://bsky.app/profile/securelayer.co)
