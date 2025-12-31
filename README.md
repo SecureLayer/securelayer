@@ -15,7 +15,7 @@
 
 <summary><h2> Learning of the month </h2></summary>
 
-Micro learning sesssions : [████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒] 45.0 minutes logged
+Micro learning sesssions : [████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒] 75.0 minutes logged
 
 ----
 
