@@ -146,6 +146,7 @@ Continuous Improvement              : 2 hrs 0 mins    ██▒▒▒▒▒▒�
 [![Profile View Counter](https://komarev.com/ghpvc/?username=SecureLayer&abbreviated=true&label=ProfileVisit&color=4fcc27)](https://securelayer.co) 
 [![Website status Badge](https://img.shields.io/website-up-down-4fcc27-f32f47/https/securelayer.co.svg)](https://securelayer.co)
 ![Carbon Footprint|89x20](https://img.shields.io/badge/eco-aware-green&logo=leaflet)
+[![OpenSSF Best Practices for https://securelayer.github.io/](https://www.bestpractices.dev/projects/11681/badge)](https://www.bestpractices.dev/projects/11681)
 
 
 <h1 align="center"><a href="https://carbonneutralwebsite.org/" target="_blank" rel="noreferrer"><img src="https://carbonneutralwebsite.org/api/banner/securelayer.co/1.62mg/light.svg" width="300px"  alt="Carbon impact of this sec page" /></a>
