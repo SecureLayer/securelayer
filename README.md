@@ -8,8 +8,7 @@
 
 [![Contact Me Badge](https://img.shields.io/badge/email-contact@securelayer.co-0285FF?&logo=contact&style=for-the-badge&llogoColor=FFFFFF)](mailto:contact@securelayer.co?subject=I%20need%20your%20cybersecurity%20expertise&body=Hello%20SecureLayer,%20I%20need%20some%20guidance%20on%20a%20security%20project.%20Can%20we%20plan%20a%20meeting) 
 [![Bluesky Badge](https://img.shields.io/badge/Join%20me-on%20Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge)](https://bsky.app/profile/securelayer.co)
-![](https://img.shields.io/github/created/securelayer/securelayer?style=for-the-badge)
-![Carbon Footprint|89x20](https://img.shields.io/badge/eco-aware-green?style=for-the-badge&logo=leaflet)
+![](https://img.shields.io/github/created-at/securelayer/securelayer?style=for-the-badge)
 
 ----
 
@@ -141,10 +140,13 @@ Continuous Improvement              : 2 hrs 0 mins    ██▒▒▒▒▒▒�
   </p>
 
 -------
-
+![](https://img.shields.io/badge/dependabot-active-brightgreen?&style=flat&logo=dependabot)
+![](https://shields.microej.com/librariesio/github/securelayer/securelayer)
 [![GitHub latest commit](https://badgen.net/github/last-commit/Securelayer/securelayer)](https://github.com/Securelayer/securelayer)
 [![Profile View Counter](https://komarev.com/ghpvc/?username=SecureLayer&abbreviated=true&label=ProfileVisit&color=4fcc27)](https://securelayer.co) 
-[![Website status Badge](https://img.shields.io/website-up-down-4fcc27-f32f47/https/securelayer.co.svg)](https://securelayer.co) 
+[![Website status Badge](https://img.shields.io/website-up-down-4fcc27-f32f47/https/securelayer.co.svg)](https://securelayer.co)
+![Carbon Footprint|89x20](https://img.shields.io/badge/eco-aware-green&logo=leaflet)
+
 
 <h1 align="center"><a href="https://carbonneutralwebsite.org/" target="_blank" rel="noreferrer"><img src="https://carbonneutralwebsite.org/api/banner/securelayer.co/1.62mg/light.svg" width="300px"  alt="Carbon impact of this sec page" /></a>
 </h1>
