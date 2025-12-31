@@ -146,7 +146,6 @@ Continuous Improvement              : 2 hrs 0 mins    ██▒▒▒▒▒▒�
 [![GitHub latest commit](https://badgen.net/github/last-commit/Securelayer/securelayer)](https://github.com/Securelayer/securelayer)
 [![Profile View Counter](https://komarev.com/ghpvc/?username=SecureLayer&abbreviated=true&label=ProfileVisit&color=4fcc27)](https://securelayer.co) 
 [![Website status Badge](https://img.shields.io/website-up-down-4fcc27-f32f47/https/securelayer.co.svg)](https://securelayer.co)
-![Carbon Footprint|89x20](https://img.shields.io/badge/eco-aware-green&logo=leaflet)
 [![OpenSSF Best Practices for https://securelayer.github.io/](https://www.bestpractices.dev/projects/11681/badge)](https://www.bestpractices.dev/projects/11681)
 
 
