@@ -19,7 +19,7 @@ Micro learning sesssions : [▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒�
 
 ----
 
-<summary><h2>Most used tools/command of the week </h2></summary>
+<summary><h2>Most used tools/command of the month </h2></summary>
 <a href="#"><img alt="Github" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"></a>
 <a href="#"><img alt="iTerm2" src="https://img.shields.io/badge/iTerm2-000000?logo=iterm2&logoColor=fff"></a>
 <a href="#"><img alt="Yubico" src="https://img.shields.io/badge/Yubico-4ea94b?logo=yubico&logoColor=white"></a>
@@ -123,13 +123,12 @@ Micro learning sesssions : [▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒�
   </p>
 
 -------
-![](https://img.shields.io/badge/dependabot-active-brightgreen?&style=flat&logo=dependabot)
-![](https://shields.microej.com/librariesio/github/securelayer/securelayer)
+[![dependabot](https://img.shields.io/badge/dependabot-active-brightgreen?&style=flat&logo=dependabot)](https://securelayer.co)
+[![dependencies](https://shields.microej.com/librariesio/github/securelayer/securelayer)](https://securelayer.co)
 [![GitHub latest commit](https://badgen.net/github/last-commit/Securelayer/securelayer)](https://github.com/Securelayer/securelayer)
 [![Profile View Counter](https://komarev.com/ghpvc/?username=SecureLayer&abbreviated=true&label=ProfileVisit&color=4fcc27)](https://securelayer.co) 
 [![Website status Badge](https://img.shields.io/website-up-down-4fcc27-f32f47/https/securelayer.co.svg)](https://securelayer.co)
 [![OpenSSF Best Practices for https://securelayer.github.io/](https://www.bestpractices.dev/projects/11681/badge)](https://www.bestpractices.dev/projects/11681)
-
 
 <h1 align="center"><a href="https://carbonneutralwebsite.org/" target="_blank" rel="noreferrer"><img src="https://carbonneutralwebsite.org/api/banner/securelayer.co/1.62mg/light.svg" width="300px"  alt="Carbon impact of this sec page" /></a>
 </h1>
