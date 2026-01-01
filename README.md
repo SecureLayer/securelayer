@@ -15,15 +15,16 @@
 
 <summary><h2> Learning of the month </h2></summary>
 
-Micro learning sesssions : [████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒] 75.0 minutes logged
+Micro learning sesssions : [▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒] 0.0 minutes logged
 
 ----
 
 <summary><h2>Most used tools/command of the week </h2></summary>
 <a href="#"><img alt="Github" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"></a>
-<a href="#"><img alt="OneNotes" src="https://img.shields.io/badge/OneNote-0078D4?logo=onenote&logoColor=white"></a>
-<a href="#"><img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white"></a>
-<a href="https://www.getgrist.com"><img alt="Grist" src="https://img.shields.io/badge/Grist-%23FF5722.svg?logo=grist&logoColor=white"></a>
+<a href="#"><img alt="iTerm2" src="https://img.shields.io/badge/iTerm2-000000?logo=iterm2&logoColor=fff"></a>
+<a href="#"><img alt="Yubico" src="https://img.shields.io/badge/Yubico-4ea94b?logo=yubico&logoColor=white"></a>
+<a href="#"><img alt="Sandbox" src="https://img.shields.io/badge/Cuckoo3-Sandbox-2496ED?logo=Sandbox&logoColor=white"></a>
+
 
 ----
 
@@ -78,6 +79,7 @@ Micro learning sesssions : [████████▒▒▒▒▒▒▒▒▒�
       <a href="#"><img alt="Brackets" src="https://img.shields.io/badge/Brackets-29abe3.svg?&logo=brackets&logoColor=white"></a>
       <a href="#"><img alt="OrbStack" src="https://img.shields.io/badge/OrbStack-9a4ad7.svg?&logo=orbstack&logoColor=white"></a>
       <a href="#"><img alt="OneFlow" src="https://img.shields.io/badge/OneFlow-4C4A73.svg?&logo=OneFlow&logoColor=white"></a>
+      <a href="#"><img alt="OneNotes" src="https://img.shields.io/badge/OneNote-0078D4?logo=onenote&logoColor=white"></a>
       <a href="#"><img alt="Salt Security" src="https://img.shields.io/badge/Salt-Security-7D4698.svg?&logo=Salt&logoColor=white"></a>
       <a href="#"><img alt="Wallarm" src="https://img.shields.io/badge/Wallarm-F38020.svg?&logo=Wallarm&logoColor=white"></a>
       <a href="#"><img alt="PDFParser" src="https://img.shields.io/badge/CLI-PDFParser-14354C"></a>
@@ -89,7 +91,7 @@ Micro learning sesssions : [████████▒▒▒▒▒▒▒▒▒�
       <a href="#"><img alt="grep" src="https://img.shields.io/badge/CLI-grep-14354C"></a>
       <a href="#"><img alt="Amass" src="https://img.shields.io/badge/Owasp-Amass-7952B3?logo=OWASP"></a>
       <a href="#"><img alt="ZAP" src="https://img.shields.io/badge/Owasp-Zap-175DDC?logo=OWASP&logoColor=white"></a>
-      <a href="#"><img alt="Sandbox" src="https://img.shields.io/badge/Cuckoo-Sandbox-2496ED?logo=Sandbox&logoColor=white"></a>
+      <a href="#"><img alt="Sandbox" src="https://img.shields.io/badge/Cuckoo3-Sandbox-2496ED?logo=Sandbox&logoColor=white"></a>
       <a href="#"><img alt="Sandbox" src="https://img.shields.io/badge/Hybrid%20Analysis-Sandbox-2496ED?logo=Sandbox&logoColor=white"></a>
       <a href="#"><img alt="Sandbox" src="https://img.shields.io/badge/Joe-Sandbox-2496ED?logo=Sandbox&logoColor=white"></a>
       <a href="#"><img alt="Sandbox" src="https://img.shields.io/badge/VirusTotal-364dff?logo=virustotal&logoColor=white"></a>
@@ -117,6 +119,7 @@ Micro learning sesssions : [████████▒▒▒▒▒▒▒▒▒�
       <a href="#"><img alt="HarckerOne" src="https://img.shields.io/badge/HarckerOne-494649.svg?&logo=hackerone&logoColor=white"></a>
       <a href="#"><img alt="WorkBrew" src="https://img.shields.io/badge/Workbrew-663BFF?logo=homebrew&logoColor=fff"></a>
       <a href="#"><img alt="Zed" src="https://img.shields.io/badge/Zed-white?logo=zedindustries&logoColor=084CCF"></a>
+      <a href="https://www.getgrist.com"><img alt="Grist" src="https://img.shields.io/badge/Grist-%23FF5722.svg?logo=grist&logoColor=white"></a>
   </p>
 
 -------
