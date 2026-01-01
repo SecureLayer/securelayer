@@ -27,27 +27,6 @@ Micro learning sesssions : [████████▒▒▒▒▒▒▒▒▒�
 
 ----
 
-<summary><h2>📊 <b>This week I spent my time on</b></h2></summary>
-
-<!--START_SECTION:waka-->
-
-```text
-Strategic Risk Management           : 4 hrs 0 mins    ████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 18.05 %
-Cybersecurity Policy Development    : 0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
-Incident Response Strategy          : 4 hrs 0 mins    ████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 18.05 %
-Stakeholder Communication           : 2 hrs 0 mins    ██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 9.02 %
-Vulnerability Management Oversight  : 1 hrs 0 mins    █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 4.51 %
-Security Awareness Training         : 0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
-Resource Allocation and Budgeting   : 4 hrs 10 mins   ████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 18.80 %
-Metrics and Reporting               : 1 hrs 0 mins    █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 4.51 %
-Performance Monitoring              : 0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
-Executive Briefings                 : 0 hrs 0 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.00 %
-Crisis Management                   : 4 hrs 0 mins    ████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 18.05 %
-Continuous Improvement              : 2 hrs 0 mins    ██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 9.02 %
-```
-<!--END_SECTION:waka-->
-
-
   <summary><h2>🛠️ What I use(d) to do my security work </h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
       <a href="#"><img alt="Bitwarden" src="https://img.shields.io/badge/Bitwarden-175DDC?logo=bitwarden&logoColor=white"></a>
