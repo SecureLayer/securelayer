@@ -13,6 +13,7 @@
 ----
 
 <summary><h2> Ongoing Focus </h2></summary>
+
 [![OpenSSF Baseline](https://www.bestpractices.dev/projects/11681/baseline)](https://www.bestpractices.dev/projects/11681)
 
 ----
