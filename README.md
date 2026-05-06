@@ -13,8 +13,7 @@
 ----
 
 <summary><h2> Ongoing Focus </h2></summary>
-
-[![OpenSSF Best Practices for https://securelayer.github.io/](https://www.bestpractices.dev/projects/11681/badge)](https://www.bestpractices.dev/projects/11681)
+[![OpenSSF Baseline](https://www.bestpractices.dev/projects/11681/baseline)](https://www.bestpractices.dev/projects/11681)
 
 ----
 
