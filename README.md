@@ -14,6 +14,8 @@
 
 <summary><h2> Ongoing Focus </h2></summary>
 
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/SecureLayer/tmp/badge)](https://scorecard.dev/viewer/?uri=github.com/SecureLayer/tmp)
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/11681/badge)](https://www.bestpractices.dev/projects/11681)
 [![OpenSSF Baseline](https://www.bestpractices.dev/projects/11681/baseline)](https://www.bestpractices.dev/projects/11681)
 
 ----
